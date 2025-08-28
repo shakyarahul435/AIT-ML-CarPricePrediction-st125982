@@ -1,0 +1,9 @@
+services:
+  carpriceprediction:
+    image: carpriceprediction
+    build: 
+      dockerfile: dockerfile
+
+  db:
+    image: mysql
+    
