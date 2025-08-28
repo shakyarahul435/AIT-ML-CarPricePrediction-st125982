@@ -1,0 +1,7 @@
+numpy
+dash
+pickle
+pandas
+scikit-learn
+
+

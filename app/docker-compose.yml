@@ -1,9 +1,18 @@
-services:
-  carpriceprediction:
-    image: carpriceprediction
-    build: 
-      dockerfile: dockerfile
+# services:
+#   carpriceprediction:
+#     image: carpriceprediction
+#     build: 
+#       dockerfile: dockerfile
 
-  db:
-    image: mysql
+#   db:
+#     image: mysql
     
+services:
+  web:
+    build: .
+    ports:
+      - "8050:8050"
+    environment:
+      - FLASK_ENV=production
+    volumes:
+      - .:/app

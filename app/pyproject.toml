@@ -1,0 +1,14 @@
+[project]
+name = "ml-classwork-1"
+version = "0.1.0"
+description = "Car Price Prediction"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "dash>=3.2.0",
+    "matplotlib>=3.10.5",
+    "numpy>=2.3.2",
+    "pandas>=2.3.1",
+    "scikit-learn>=1.7.1",
+    "seaborn>=0.13.2",
+]
