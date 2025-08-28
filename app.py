@@ -6,7 +6,7 @@ import numpy as np
 
 app = Dash()    #initialization of app using Dash
 
-df = pd.read_csv("Cars.csv")    # reading csv file using pandas
+df = pd.read_csv("assets/data/Cars.csv")    # reading csv file using pandas
 
 filename = 'model/carPricePrediction.model' # importing pre-trained model carPricePrediction.model
 loaded_model = pickle.load(open(filename, 'rb'))    # loading trained model to loaded_model variable
