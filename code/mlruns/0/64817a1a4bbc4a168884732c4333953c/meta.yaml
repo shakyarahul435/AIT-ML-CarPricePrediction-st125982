@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/64817a1a4bbc4a168884732c4333953c/artifacts
+end_time: 1757704854203
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 64817a1a4bbc4a168884732c4333953c
+run_name: resilient-dolphin-75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757704853772
+status: 3
+tags: []
+user_id: Lenovo

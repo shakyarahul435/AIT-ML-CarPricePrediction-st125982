@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/861ad52100774daaa9a518359e170273/artifacts
+end_time: 1757706324468
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 861ad52100774daaa9a518359e170273
+run_name: learned-quail-566
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757706324147
+status: 3
+tags: []
+user_id: Lenovo

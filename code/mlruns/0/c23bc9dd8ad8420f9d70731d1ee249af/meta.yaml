@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/c23bc9dd8ad8420f9d70731d1ee249af/artifacts
+end_time: 1757700084940
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c23bc9dd8ad8420f9d70731d1ee249af
+run_name: flawless-colt-811
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757700084302
+status: 3
+tags: []
+user_id: Lenovo

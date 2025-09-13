@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/53e48402ebbb4d20920b3e4bd6bc54fc/artifacts
+end_time: 1757703934688
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 53e48402ebbb4d20920b3e4bd6bc54fc
+run_name: bouncy-stoat-1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757703934421
+status: 3
+tags: []
+user_id: Lenovo

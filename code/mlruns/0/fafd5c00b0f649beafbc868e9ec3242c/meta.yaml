@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/fafd5c00b0f649beafbc868e9ec3242c/artifacts
+end_time: 1757706365696
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fafd5c00b0f649beafbc868e9ec3242c
+run_name: masked-snipe-837
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757706365120
+status: 3
+tags: []
+user_id: Lenovo

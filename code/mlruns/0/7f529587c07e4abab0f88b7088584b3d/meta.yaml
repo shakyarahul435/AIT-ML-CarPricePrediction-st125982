@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/7f529587c07e4abab0f88b7088584b3d/artifacts
+end_time: 1757768251652
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7f529587c07e4abab0f88b7088584b3d
+run_name: indecisive-duck-308
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757768251278
+status: 3
+tags: []
+user_id: Lenovo

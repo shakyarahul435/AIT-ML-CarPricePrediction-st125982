@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/5f80c77fb8164bdbad1a87ab34c5284f/artifacts
+end_time: 1757688268681
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5f80c77fb8164bdbad1a87ab34c5284f
+run_name: likeable-trout-75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757688268356
+status: 3
+tags: []
+user_id: Lenovo

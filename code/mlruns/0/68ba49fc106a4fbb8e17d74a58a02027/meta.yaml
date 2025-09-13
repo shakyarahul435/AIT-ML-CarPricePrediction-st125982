@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/68ba49fc106a4fbb8e17d74a58a02027/artifacts
+end_time: 1757704492840
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 68ba49fc106a4fbb8e17d74a58a02027
+run_name: receptive-shark-214
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757704492518
+status: 3
+tags: []
+user_id: Lenovo

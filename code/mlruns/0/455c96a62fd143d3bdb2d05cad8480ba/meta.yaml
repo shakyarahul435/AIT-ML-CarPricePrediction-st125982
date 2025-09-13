@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/455c96a62fd143d3bdb2d05cad8480ba/artifacts
+end_time: 1757704731763
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 455c96a62fd143d3bdb2d05cad8480ba
+run_name: popular-shrew-903
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757704731381
+status: 3
+tags: []
+user_id: Lenovo

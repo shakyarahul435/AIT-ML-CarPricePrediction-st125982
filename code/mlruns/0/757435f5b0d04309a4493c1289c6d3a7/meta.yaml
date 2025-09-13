@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/757435f5b0d04309a4493c1289c6d3a7/artifacts
+end_time: 1757704848717
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 757435f5b0d04309a4493c1289c6d3a7
+run_name: receptive-trout-410
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757704848183
+status: 3
+tags: []
+user_id: Lenovo

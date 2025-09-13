@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/c1d950f7da804d68ac95200a065f830d/artifacts
+end_time: 1757700084298
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c1d950f7da804d68ac95200a065f830d
+run_name: welcoming-wasp-472
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757700081496
+status: 3
+tags: []
+user_id: Lenovo

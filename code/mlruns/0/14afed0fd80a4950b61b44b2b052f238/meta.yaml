@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/14afed0fd80a4950b61b44b2b052f238/artifacts
+end_time: 1757705623846
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 14afed0fd80a4950b61b44b2b052f238
+run_name: funny-ray-4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757705623549
+status: 3
+tags: []
+user_id: Lenovo

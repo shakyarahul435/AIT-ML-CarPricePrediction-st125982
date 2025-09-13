@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/190877290999588017/7eed7c0488e14730a8cbc128a7f383a6/artifacts
+end_time: 1757564764023
+entry_point_name: ''
+experiment_id: '190877290999588017'
+lifecycle_stage: active
+run_id: 7eed7c0488e14730a8cbc128a7f383a6
+run_name: method-sto-lr-0.01-reg-ElasticNet-poly-False-momentum-Momentum Used-init-xavier
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757563808482
+status: 3
+tags: []
+user_id: Lenovo

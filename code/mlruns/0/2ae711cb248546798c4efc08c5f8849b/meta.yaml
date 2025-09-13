@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/2ae711cb248546798c4efc08c5f8849b/artifacts
+end_time: 1757704743678
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2ae711cb248546798c4efc08c5f8849b
+run_name: gentle-stag-654
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757704743410
+status: 3
+tags: []
+user_id: Lenovo

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/ac5b589e98dd496989c185c0e4f5bebe/artifacts
+end_time: 1757703952615
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ac5b589e98dd496989c185c0e4f5bebe
+run_name: trusting-rat-681
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757703952271
+status: 3
+tags: []
+user_id: Lenovo

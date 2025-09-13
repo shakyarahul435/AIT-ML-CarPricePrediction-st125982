@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/a96c8a771cdc429195945420be2fc1f8/artifacts
+end_time: 1757768165136
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a96c8a771cdc429195945420be2fc1f8
+run_name: adventurous-trout-6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757768164782
+status: 3
+tags: []
+user_id: Lenovo

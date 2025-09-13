@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/68912a83211549608632ca229d8a0125/artifacts
+end_time: 1757703682536
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 68912a83211549608632ca229d8a0125
+run_name: crawling-hog-767
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757703682160
+status: 3
+tags: []
+user_id: Lenovo

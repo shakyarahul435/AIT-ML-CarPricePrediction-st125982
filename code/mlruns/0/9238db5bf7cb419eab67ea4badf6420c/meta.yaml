@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/9238db5bf7cb419eab67ea4badf6420c/artifacts
+end_time: 1757705658271
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9238db5bf7cb419eab67ea4badf6420c
+run_name: receptive-fowl-269
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757705657892
+status: 3
+tags: []
+user_id: Lenovo

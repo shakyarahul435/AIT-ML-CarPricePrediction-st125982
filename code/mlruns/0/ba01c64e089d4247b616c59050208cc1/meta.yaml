@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/ba01c64e089d4247b616c59050208cc1/artifacts
+end_time: 1757695992310
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ba01c64e089d4247b616c59050208cc1
+run_name: selective-wolf-425
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757695986742
+status: 3
+tags: []
+user_id: Lenovo

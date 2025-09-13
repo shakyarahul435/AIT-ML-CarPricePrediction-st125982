@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/e480f31680bb48ebb095800b64a95ded/artifacts
+end_time: 1757703705079
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e480f31680bb48ebb095800b64a95ded
+run_name: blushing-moose-432
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757703704762
+status: 3
+tags: []
+user_id: Lenovo

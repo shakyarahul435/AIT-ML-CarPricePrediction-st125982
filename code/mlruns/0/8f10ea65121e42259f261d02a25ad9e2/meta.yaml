@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/8f10ea65121e42259f261d02a25ad9e2/artifacts
+end_time: 1757703703503
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8f10ea65121e42259f261d02a25ad9e2
+run_name: resilient-conch-347
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757703703019
+status: 3
+tags: []
+user_id: Lenovo

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/832cbf60c2d944c8805aa3f42aa68cd1/artifacts
+end_time: 1757768246630
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 832cbf60c2d944c8805aa3f42aa68cd1
+run_name: salty-crow-697
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757768246242
+status: 3
+tags: []
+user_id: Lenovo

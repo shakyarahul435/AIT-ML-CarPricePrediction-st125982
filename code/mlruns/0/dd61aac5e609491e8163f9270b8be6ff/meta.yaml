@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/dd61aac5e609491e8163f9270b8be6ff/artifacts
+end_time: 1757694790060
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dd61aac5e609491e8163f9270b8be6ff
+run_name: colorful-fish-658
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757694789556
+status: 3
+tags: []
+user_id: Lenovo

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/99c09ce6db1d48308d240c6c69fcd6bd/artifacts
+end_time: 1757704723552
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 99c09ce6db1d48308d240c6c69fcd6bd
+run_name: rebellious-wasp-344
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757704723253
+status: 3
+tags: []
+user_id: Lenovo

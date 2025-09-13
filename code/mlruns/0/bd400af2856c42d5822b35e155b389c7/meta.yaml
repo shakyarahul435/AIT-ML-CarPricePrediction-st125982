@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/bd400af2856c42d5822b35e155b389c7/artifacts
+end_time: 1757699981244
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bd400af2856c42d5822b35e155b389c7
+run_name: capricious-croc-81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757699980164
+status: 3
+tags: []
+user_id: Lenovo

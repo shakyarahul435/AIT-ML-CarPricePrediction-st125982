@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/bb6a350f6e244a9b97e000fc3a074cea/artifacts
+end_time: 1757692161014
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bb6a350f6e244a9b97e000fc3a074cea
+run_name: resilient-fish-956
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757692160802
+status: 4
+tags: []
+user_id: Lenovo

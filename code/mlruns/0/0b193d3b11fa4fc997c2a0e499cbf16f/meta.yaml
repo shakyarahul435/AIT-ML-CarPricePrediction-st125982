@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/0b193d3b11fa4fc997c2a0e499cbf16f/artifacts
+end_time: 1757768118879
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0b193d3b11fa4fc997c2a0e499cbf16f
+run_name: suave-foal-428
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757768118570
+status: 3
+tags: []
+user_id: Lenovo

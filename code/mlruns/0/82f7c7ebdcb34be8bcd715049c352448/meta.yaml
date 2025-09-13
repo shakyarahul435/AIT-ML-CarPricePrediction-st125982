@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/82f7c7ebdcb34be8bcd715049c352448/artifacts
+end_time: 1757692361363
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 82f7c7ebdcb34be8bcd715049c352448
+run_name: resilient-gnat-664
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757692359036
+status: 3
+tags: []
+user_id: Lenovo

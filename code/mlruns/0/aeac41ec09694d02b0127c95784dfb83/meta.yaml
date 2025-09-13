@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/aeac41ec09694d02b0127c95784dfb83/artifacts
+end_time: 1757694885949
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aeac41ec09694d02b0127c95784dfb83
+run_name: puzzled-wasp-224
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757694883056
+status: 3
+tags: []
+user_id: Lenovo

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/0faa2b3bef1e4961bdea317fd1f085fd/artifacts
+end_time: 1757768261554
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0faa2b3bef1e4961bdea317fd1f085fd
+run_name: placid-quail-688
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757768261266
+status: 3
+tags: []
+user_id: Lenovo

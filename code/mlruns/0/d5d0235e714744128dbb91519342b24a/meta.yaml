@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/d5d0235e714744128dbb91519342b24a/artifacts
+end_time: 1757705646515
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d5d0235e714744128dbb91519342b24a
+run_name: burly-penguin-209
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757705646220
+status: 3
+tags: []
+user_id: Lenovo

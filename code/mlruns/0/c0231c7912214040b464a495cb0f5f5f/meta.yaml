@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/c0231c7912214040b464a495cb0f5f5f/artifacts
+end_time: 1757692321926
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c0231c7912214040b464a495cb0f5f5f
+run_name: secretive-midge-152
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757692319454
+status: 3
+tags: []
+user_id: Lenovo

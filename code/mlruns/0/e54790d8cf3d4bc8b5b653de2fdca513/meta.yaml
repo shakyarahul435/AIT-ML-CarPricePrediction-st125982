@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/e54790d8cf3d4bc8b5b653de2fdca513/artifacts
+end_time: 1757704481235
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e54790d8cf3d4bc8b5b653de2fdca513
+run_name: big-calf-537
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757704480827
+status: 3
+tags: []
+user_id: Lenovo

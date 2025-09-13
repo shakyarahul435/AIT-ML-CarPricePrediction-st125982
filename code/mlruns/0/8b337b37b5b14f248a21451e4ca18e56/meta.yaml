@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/8b337b37b5b14f248a21451e4ca18e56/artifacts
+end_time: 1757686286194
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8b337b37b5b14f248a21451e4ca18e56
+run_name: gaudy-ray-446
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757686285090
+status: 3
+tags: []
+user_id: Lenovo

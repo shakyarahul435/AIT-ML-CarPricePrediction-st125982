@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/66a917b81b284f468601c9589dc3238b/artifacts
+end_time: 1757694755839
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 66a917b81b284f468601c9589dc3238b
+run_name: welcoming-calf-238
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757694754851
+status: 3
+tags: []
+user_id: Lenovo

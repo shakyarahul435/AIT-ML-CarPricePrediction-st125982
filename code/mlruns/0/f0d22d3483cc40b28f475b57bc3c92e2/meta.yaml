@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/f0d22d3483cc40b28f475b57bc3c92e2/artifacts
+end_time: 1757768160983
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f0d22d3483cc40b28f475b57bc3c92e2
+run_name: masked-smelt-370
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757768160532
+status: 3
+tags: []
+user_id: Lenovo

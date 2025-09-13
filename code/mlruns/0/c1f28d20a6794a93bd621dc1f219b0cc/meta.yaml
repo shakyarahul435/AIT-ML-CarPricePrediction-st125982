@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/c1f28d20a6794a93bd621dc1f219b0cc/artifacts
+end_time: 1757688551197
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c1f28d20a6794a93bd621dc1f219b0cc
+run_name: auspicious-mink-40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757688549190
+status: 3
+tags: []
+user_id: Lenovo

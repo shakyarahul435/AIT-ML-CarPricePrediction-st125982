@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/ab9675b8c240449da82cccce9c44cfd4/artifacts
+end_time: 1757686182745
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ab9675b8c240449da82cccce9c44cfd4
+run_name: bald-lamb-570
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757686181392
+status: 3
+tags: []
+user_id: Lenovo

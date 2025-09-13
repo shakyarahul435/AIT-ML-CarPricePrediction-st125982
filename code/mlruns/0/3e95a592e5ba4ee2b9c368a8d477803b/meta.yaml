@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/3e95a592e5ba4ee2b9c368a8d477803b/artifacts
+end_time: 1757704505235
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3e95a592e5ba4ee2b9c368a8d477803b
+run_name: learned-horse-527
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757704504841
+status: 3
+tags: []
+user_id: Lenovo

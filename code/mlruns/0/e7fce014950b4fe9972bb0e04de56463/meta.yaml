@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/e7fce014950b4fe9972bb0e04de56463/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e7fce014950b4fe9972bb0e04de56463
+run_name: method-batch-lr-0.1-reg-Ridge-poly-True
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757529884000
+status: 1
+tags: []
+user_id: Lenovo

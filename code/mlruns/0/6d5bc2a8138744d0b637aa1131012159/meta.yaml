@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/6d5bc2a8138744d0b637aa1131012159/artifacts
+end_time: 1757688559439
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6d5bc2a8138744d0b637aa1131012159
+run_name: bedecked-mouse-183
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757688559080
+status: 3
+tags: []
+user_id: Lenovo

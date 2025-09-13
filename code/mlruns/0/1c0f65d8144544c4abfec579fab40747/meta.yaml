@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/1c0f65d8144544c4abfec579fab40747/artifacts
+end_time: 1757686184118
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1c0f65d8144544c4abfec579fab40747
+run_name: fun-rat-750
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757686183832
+status: 3
+tags: []
+user_id: Lenovo

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/58d977d516624cda97d0b86b6913a0c9/artifacts
+end_time: 1757704513766
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 58d977d516624cda97d0b86b6913a0c9
+run_name: stately-mole-640
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757704513245
+status: 3
+tags: []
+user_id: Lenovo

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/d735dbca9346427b99d9b767af430cd0/artifacts
+end_time: 1757526824957
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d735dbca9346427b99d9b767af430cd0
+run_name: method-batch-lr-0.1-reg-ElasticNet
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757526815372
+status: 3
+tags: []
+user_id: Lenovo

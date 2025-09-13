@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/3b4cddc5fb464932bb8efe4138bd6984/artifacts
+end_time: 1757686234085
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3b4cddc5fb464932bb8efe4138bd6984
+run_name: orderly-gnat-157
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757686232848
+status: 3
+tags: []
+user_id: Lenovo

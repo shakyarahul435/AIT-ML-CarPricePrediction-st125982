@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/747f47667e514356ad9a85d78999c0c6/artifacts
+end_time: 1757703671749
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 747f47667e514356ad9a85d78999c0c6
+run_name: traveling-mole-843
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757703671408
+status: 3
+tags: []
+user_id: Lenovo

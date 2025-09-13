@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/5304b21609a14b56822ebadf8ee3e9ce/artifacts
+end_time: 1757703950956
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5304b21609a14b56822ebadf8ee3e9ce
+run_name: incongruous-stag-571
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757703950448
+status: 3
+tags: []
+user_id: Lenovo

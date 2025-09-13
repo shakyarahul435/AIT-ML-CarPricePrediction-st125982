@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/b57b56caef0244c7ae6ecc2ca59ee5e9/artifacts
+end_time: 1757704741892
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b57b56caef0244c7ae6ecc2ca59ee5e9
+run_name: gentle-rook-512
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757704741588
+status: 3
+tags: []
+user_id: Lenovo

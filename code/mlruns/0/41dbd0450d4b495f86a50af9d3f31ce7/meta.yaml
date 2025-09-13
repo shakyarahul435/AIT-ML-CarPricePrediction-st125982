@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/41dbd0450d4b495f86a50af9d3f31ce7/artifacts
+end_time: 1757688260914
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 41dbd0450d4b495f86a50af9d3f31ce7
+run_name: selective-rat-498
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757688259606
+status: 3
+tags: []
+user_id: Lenovo

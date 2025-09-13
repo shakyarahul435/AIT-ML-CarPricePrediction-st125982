@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/61bdcb9bcc0f468cb9787df3760e8960/artifacts
+end_time: 1757706348554
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 61bdcb9bcc0f468cb9787df3760e8960
+run_name: big-shark-693
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757706348249
+status: 3
+tags: []
+user_id: Lenovo

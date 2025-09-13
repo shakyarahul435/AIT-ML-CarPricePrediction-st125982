@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/80948f2990a84572b1f4d15d631b3546/artifacts
+end_time: 1757700385338
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 80948f2990a84572b1f4d15d631b3546
+run_name: capable-bug-132
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757700377618
+status: 3
+tags: []
+user_id: Lenovo

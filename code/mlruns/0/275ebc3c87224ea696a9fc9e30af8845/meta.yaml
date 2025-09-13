@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/275ebc3c87224ea696a9fc9e30af8845/artifacts
+end_time: 1757688362412
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 275ebc3c87224ea696a9fc9e30af8845
+run_name: smiling-seal-405
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757688361939
+status: 3
+tags: []
+user_id: Lenovo

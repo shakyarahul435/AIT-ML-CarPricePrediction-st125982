@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/ceb5a4f6162b4c05b4ec036ed5ae725a/artifacts
+end_time: 1757704872364
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ceb5a4f6162b4c05b4ec036ed5ae725a
+run_name: abrasive-snail-24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757704871995
+status: 3
+tags: []
+user_id: Lenovo

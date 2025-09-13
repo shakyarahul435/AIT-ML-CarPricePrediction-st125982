@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/faeb1c862b0d4caebdaec22ed207f277/artifacts
+end_time: 1757699701424
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: faeb1c862b0d4caebdaec22ed207f277
+run_name: crawling-grouse-332
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757699699203
+status: 3
+tags: []
+user_id: Lenovo

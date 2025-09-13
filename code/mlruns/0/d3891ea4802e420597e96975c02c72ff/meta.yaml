@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/d3891ea4802e420597e96975c02c72ff/artifacts
+end_time: 1757705662198
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d3891ea4802e420597e96975c02c72ff
+run_name: adaptable-finch-577
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757705661715
+status: 3
+tags: []
+user_id: Lenovo

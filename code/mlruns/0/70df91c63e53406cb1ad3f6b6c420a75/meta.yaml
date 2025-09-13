@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/70df91c63e53406cb1ad3f6b6c420a75/artifacts
+end_time: 1757693432878
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 70df91c63e53406cb1ad3f6b6c420a75
+run_name: glamorous-colt-340
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757693431088
+status: 3
+tags: []
+user_id: Lenovo

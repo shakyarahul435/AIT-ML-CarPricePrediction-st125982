@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/e8163988729d4a0fae71e24f5159dae9/artifacts
+end_time: 1757697934152
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e8163988729d4a0fae71e24f5159dae9
+run_name: caring-quail-628
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757697931600
+status: 3
+tags: []
+user_id: Lenovo

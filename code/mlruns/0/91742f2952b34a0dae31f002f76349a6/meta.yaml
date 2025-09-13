@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/91742f2952b34a0dae31f002f76349a6/artifacts
+end_time: 1757704860408
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 91742f2952b34a0dae31f002f76349a6
+run_name: mercurial-skunk-84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757704859980
+status: 3
+tags: []
+user_id: Lenovo

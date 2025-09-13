@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/f6cc6829f617433b9495f22b285909f4/artifacts
+end_time: 1757704837494
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f6cc6829f617433b9495f22b285909f4
+run_name: clumsy-fish-565
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757704837037
+status: 3
+tags: []
+user_id: Lenovo

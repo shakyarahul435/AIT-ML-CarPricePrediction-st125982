@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/c958d3659bc74d3fabcb8f6cc2ced730/artifacts
+end_time: 1757768148024
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c958d3659bc74d3fabcb8f6cc2ced730
+run_name: traveling-skunk-36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757768147616
+status: 3
+tags: []
+user_id: Lenovo

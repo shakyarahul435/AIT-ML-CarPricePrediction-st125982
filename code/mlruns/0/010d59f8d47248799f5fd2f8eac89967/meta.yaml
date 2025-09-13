@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/010d59f8d47248799f5fd2f8eac89967/artifacts
+end_time: 1757692464161
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 010d59f8d47248799f5fd2f8eac89967
+run_name: smiling-shark-486
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757692461742
+status: 3
+tags: []
+user_id: Lenovo

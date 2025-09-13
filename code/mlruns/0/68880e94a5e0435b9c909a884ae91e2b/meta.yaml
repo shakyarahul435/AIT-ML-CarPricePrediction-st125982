@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/68880e94a5e0435b9c909a884ae91e2b/artifacts
+end_time: 1757703972464
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 68880e94a5e0435b9c909a884ae91e2b
+run_name: loud-snake-11
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757703972181
+status: 3
+tags: []
+user_id: Lenovo

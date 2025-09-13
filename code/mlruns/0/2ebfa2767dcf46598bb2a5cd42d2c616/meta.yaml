@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/2ebfa2767dcf46598bb2a5cd42d2c616/artifacts
+end_time: 1757766986084
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2ebfa2767dcf46598bb2a5cd42d2c616
+run_name: judicious-chimp-764
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757766985613
+status: 3
+tags: []
+user_id: Lenovo

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/3b34bb6ca088465ea65baeb2d1691e6d/artifacts
+end_time: 1757770977735
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3b34bb6ca088465ea65baeb2d1691e6d
+run_name: suave-ram-25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757770977339
+status: 3
+tags: []
+user_id: Lenovo

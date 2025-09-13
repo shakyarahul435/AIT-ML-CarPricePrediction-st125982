@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/5c034fdec6374df68fd75df334f2ef2b/artifacts
+end_time: 1757703932066
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5c034fdec6374df68fd75df334f2ef2b
+run_name: redolent-cub-817
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757703931654
+status: 3
+tags: []
+user_id: Lenovo

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/87709433f2194b9ea8ae6a4946e82095/artifacts
+end_time: 1757696072109
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 87709433f2194b9ea8ae6a4946e82095
+run_name: adaptable-hog-21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757696070932
+status: 3
+tags: []
+user_id: Lenovo

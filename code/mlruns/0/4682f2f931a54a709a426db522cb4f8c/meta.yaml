@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/4682f2f931a54a709a426db522cb4f8c/artifacts
+end_time: 1757688280933
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4682f2f931a54a709a426db522cb4f8c
+run_name: redolent-panda-841
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757688279506
+status: 3
+tags: []
+user_id: Lenovo

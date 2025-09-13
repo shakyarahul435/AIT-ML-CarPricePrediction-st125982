@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/5ec61f98d85c4d2596c6db95d904e240/artifacts
+end_time: 1757688288564
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5ec61f98d85c4d2596c6db95d904e240
+run_name: chill-foal-991
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757688288228
+status: 3
+tags: []
+user_id: Lenovo

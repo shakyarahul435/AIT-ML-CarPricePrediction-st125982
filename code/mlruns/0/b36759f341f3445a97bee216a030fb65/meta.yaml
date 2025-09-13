@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/b36759f341f3445a97bee216a030fb65/artifacts
+end_time: 1757706349794
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b36759f341f3445a97bee216a030fb65
+run_name: trusting-toad-105
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757706349377
+status: 3
+tags: []
+user_id: Lenovo

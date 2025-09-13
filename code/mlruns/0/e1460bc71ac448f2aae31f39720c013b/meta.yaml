@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/e1460bc71ac448f2aae31f39720c013b/artifacts
+end_time: 1757768235387
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e1460bc71ac448f2aae31f39720c013b
+run_name: masked-ram-602
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757768234951
+status: 3
+tags: []
+user_id: Lenovo

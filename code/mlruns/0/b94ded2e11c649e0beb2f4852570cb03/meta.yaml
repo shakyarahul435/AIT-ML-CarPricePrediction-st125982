@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/b94ded2e11c649e0beb2f4852570cb03/artifacts
+end_time: 1757766992964
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b94ded2e11c649e0beb2f4852570cb03
+run_name: resilient-elk-371
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757766992403
+status: 3
+tags: []
+user_id: Lenovo

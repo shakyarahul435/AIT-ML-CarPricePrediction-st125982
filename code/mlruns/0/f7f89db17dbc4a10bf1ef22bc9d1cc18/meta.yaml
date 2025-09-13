@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/f7f89db17dbc4a10bf1ef22bc9d1cc18/artifacts
+end_time: 1757704510929
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f7f89db17dbc4a10bf1ef22bc9d1cc18
+run_name: abrasive-ram-970
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757704510626
+status: 3
+tags: []
+user_id: Lenovo

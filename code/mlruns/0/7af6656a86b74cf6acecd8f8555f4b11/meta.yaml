@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/7af6656a86b74cf6acecd8f8555f4b11/artifacts
+end_time: 1757768250528
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7af6656a86b74cf6acecd8f8555f4b11
+run_name: bemused-yak-1000
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757768250132
+status: 3
+tags: []
+user_id: Lenovo

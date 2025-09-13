@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/8332ef02853b4a8380c0bbf2dbf6b783/artifacts
+end_time: 1757768140035
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8332ef02853b4a8380c0bbf2dbf6b783
+run_name: spiffy-dove-150
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757768139745
+status: 3
+tags: []
+user_id: Lenovo

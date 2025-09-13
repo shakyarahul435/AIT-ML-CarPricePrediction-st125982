@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/07aa0dc198a849fab79a98759ccd5a81/artifacts
+end_time: 1757694678023
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 07aa0dc198a849fab79a98759ccd5a81
+run_name: resilient-ram-880
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757694676883
+status: 3
+tags: []
+user_id: Lenovo

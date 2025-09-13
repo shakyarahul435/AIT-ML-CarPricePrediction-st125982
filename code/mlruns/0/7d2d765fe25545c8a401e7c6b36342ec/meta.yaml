@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/7d2d765fe25545c8a401e7c6b36342ec/artifacts
+end_time: 1757704735285
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7d2d765fe25545c8a401e7c6b36342ec
+run_name: orderly-finch-733
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757704735011
+status: 3
+tags: []
+user_id: Lenovo

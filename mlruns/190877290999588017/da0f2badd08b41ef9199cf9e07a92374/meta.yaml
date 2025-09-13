@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/190877290999588017/da0f2badd08b41ef9199cf9e07a92374/artifacts
+end_time: 1757532274132
+entry_point_name: ''
+experiment_id: '190877290999588017'
+lifecycle_stage: active
+run_id: da0f2badd08b41ef9199cf9e07a92374
+run_name: method-sto-lr-0.0001-reg-Ridge-poly-True-momentum-Momentum Used-init-zero
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757531944126
+status: 3
+tags: []
+user_id: Lenovo

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/572a04672d8f47da8de053a64533e5b8/artifacts
+end_time: 1757688518567
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 572a04672d8f47da8de053a64533e5b8
+run_name: bouncy-horse-151
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757688517580
+status: 3
+tags: []
+user_id: Lenovo

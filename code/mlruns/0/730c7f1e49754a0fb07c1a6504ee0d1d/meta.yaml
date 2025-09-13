@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/730c7f1e49754a0fb07c1a6504ee0d1d/artifacts
+end_time: 1757696025067
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 730c7f1e49754a0fb07c1a6504ee0d1d
+run_name: brawny-goose-172
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757696019622
+status: 3
+tags: []
+user_id: Lenovo

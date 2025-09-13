@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/851613d96f0f482099847fba95b0f054/artifacts
+end_time: 1757770933861
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 851613d96f0f482099847fba95b0f054
+run_name: resilient-finch-338
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757770933396
+status: 3
+tags: []
+user_id: Lenovo

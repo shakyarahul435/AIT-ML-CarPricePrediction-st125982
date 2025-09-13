@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/dffdb0ca55ce4c9197df59e3585ced6c/artifacts
+end_time: 1757688302708
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dffdb0ca55ce4c9197df59e3585ced6c
+run_name: classy-turtle-770
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757688301555
+status: 3
+tags: []
+user_id: Lenovo

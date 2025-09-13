@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/1bcac82d4287458895891eed5a11d34b/artifacts
+end_time: 1757703686110
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1bcac82d4287458895891eed5a11d34b
+run_name: clean-grub-869
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757703685842
+status: 3
+tags: []
+user_id: Lenovo

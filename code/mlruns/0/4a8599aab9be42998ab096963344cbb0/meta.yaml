@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/4a8599aab9be42998ab096963344cbb0/artifacts
+end_time: 1757688313445
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4a8599aab9be42998ab096963344cbb0
+run_name: upset-kite-403
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757688312405
+status: 3
+tags: []
+user_id: Lenovo

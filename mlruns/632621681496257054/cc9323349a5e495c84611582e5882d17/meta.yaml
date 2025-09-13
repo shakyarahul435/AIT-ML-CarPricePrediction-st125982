@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/632621681496257054/cc9323349a5e495c84611582e5882d17/artifacts
+end_time: 1757591382029
+entry_point_name: ''
+experiment_id: '632621681496257054'
+lifecycle_stage: active
+run_id: cc9323349a5e495c84611582e5882d17
+run_name: method-batch-lr-0.1-reg-Ridge
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757591125371
+status: 3
+tags: []
+user_id: Lenovo

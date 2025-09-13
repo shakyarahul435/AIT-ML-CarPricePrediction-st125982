@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/eb07bb5d1a864982acbfcee3ce8526b9/artifacts
+end_time: 1757688291939
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eb07bb5d1a864982acbfcee3ce8526b9
+run_name: efficient-mole-551
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757688290775
+status: 3
+tags: []
+user_id: Lenovo

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/e7abcc5ebdf04fb4af3dbe3aa6287f2a/artifacts
+end_time: 1757771018755
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e7abcc5ebdf04fb4af3dbe3aa6287f2a
+run_name: chill-colt-324
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757771018458
+status: 3
+tags: []
+user_id: Lenovo

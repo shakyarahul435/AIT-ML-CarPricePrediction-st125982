@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/b2995a64db1a459ca5d83d92fbc59d61/artifacts
+end_time: 1757688458577
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b2995a64db1a459ca5d83d92fbc59d61
+run_name: sedate-worm-840
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757688457427
+status: 3
+tags: []
+user_id: Lenovo

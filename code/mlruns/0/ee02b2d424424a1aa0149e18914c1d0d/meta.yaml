@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/ee02b2d424424a1aa0149e18914c1d0d/artifacts
+end_time: 1757704853367
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ee02b2d424424a1aa0149e18914c1d0d
+run_name: resilient-deer-744
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757704852881
+status: 3
+tags: []
+user_id: Lenovo

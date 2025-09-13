@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/510757e0b9604d80b0a3feaf52a3e8c1/artifacts
+end_time: 1757688546194
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 510757e0b9604d80b0a3feaf52a3e8c1
+run_name: classy-dove-255
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757688544074
+status: 3
+tags: []
+user_id: Lenovo

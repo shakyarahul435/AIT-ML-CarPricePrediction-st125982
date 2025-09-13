@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/c320fbbe923e40c79a22d49bdd6a5d4e/artifacts
+end_time: 1757694789552
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c320fbbe923e40c79a22d49bdd6a5d4e
+run_name: abundant-bird-470
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757694787973
+status: 3
+tags: []
+user_id: Lenovo

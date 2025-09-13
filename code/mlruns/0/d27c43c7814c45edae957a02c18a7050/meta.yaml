@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/d27c43c7814c45edae957a02c18a7050/artifacts
+end_time: 1757700155045
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d27c43c7814c45edae957a02c18a7050
+run_name: popular-koi-385
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757700131272
+status: 3
+tags: []
+user_id: Lenovo

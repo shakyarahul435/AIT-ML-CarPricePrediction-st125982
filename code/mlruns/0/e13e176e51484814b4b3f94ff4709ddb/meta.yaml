@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/e13e176e51484814b4b3f94ff4709ddb/artifacts
+end_time: 1757694565609
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e13e176e51484814b4b3f94ff4709ddb
+run_name: rogue-elk-848
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757694563525
+status: 3
+tags: []
+user_id: Lenovo

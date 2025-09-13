@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/7fe7c133e5404620b3f963a8cfd1162b/artifacts
+end_time: 1757704739126
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7fe7c133e5404620b3f963a8cfd1162b
+run_name: trusting-fly-819
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757704738700
+status: 3
+tags: []
+user_id: Lenovo

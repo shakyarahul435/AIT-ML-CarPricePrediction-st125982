@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/2d08213029f5472d9886c161b192b4b0/artifacts
+end_time: 1757697931595
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2d08213029f5472d9886c161b192b4b0
+run_name: debonair-chimp-16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757697931076
+status: 3
+tags: []
+user_id: Lenovo

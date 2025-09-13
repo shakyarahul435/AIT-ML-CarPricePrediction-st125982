@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/20ac0200cac744688e639d2d167abc37/artifacts
+end_time: 1757695965199
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 20ac0200cac744688e639d2d167abc37
+run_name: bouncy-crab-237
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757695959958
+status: 3
+tags: []
+user_id: Lenovo

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/cf72511749cd422ebcfe0e5cd53fb054/artifacts
+end_time: 1757694557040
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cf72511749cd422ebcfe0e5cd53fb054
+run_name: masked-mole-668
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757694555819
+status: 3
+tags: []
+user_id: Lenovo

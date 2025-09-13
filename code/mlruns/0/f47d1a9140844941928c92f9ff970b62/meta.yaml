@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/f47d1a9140844941928c92f9ff970b62/artifacts
+end_time: 1757706316323
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f47d1a9140844941928c92f9ff970b62
+run_name: beautiful-tern-761
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757706315868
+status: 3
+tags: []
+user_id: Lenovo

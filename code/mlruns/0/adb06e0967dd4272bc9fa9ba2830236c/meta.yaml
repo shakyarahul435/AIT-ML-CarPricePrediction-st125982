@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/adb06e0967dd4272bc9fa9ba2830236c/artifacts
+end_time: 1757703933266
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: adb06e0967dd4272bc9fa9ba2830236c
+run_name: tasteful-rook-373
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757703932892
+status: 3
+tags: []
+user_id: Lenovo

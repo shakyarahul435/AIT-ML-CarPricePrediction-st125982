@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/aa9ce297f6d84989ba6ba5891ce78808/artifacts
+end_time: 1757688359002
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aa9ce297f6d84989ba6ba5891ce78808
+run_name: sedate-newt-685
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757688357983
+status: 3
+tags: []
+user_id: Lenovo

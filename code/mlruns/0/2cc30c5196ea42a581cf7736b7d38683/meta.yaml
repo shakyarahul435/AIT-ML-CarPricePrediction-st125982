@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/2cc30c5196ea42a581cf7736b7d38683/artifacts
+end_time: 1757698105817
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2cc30c5196ea42a581cf7736b7d38683
+run_name: shivering-cub-206
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757698097400
+status: 3
+tags: []
+user_id: Lenovo

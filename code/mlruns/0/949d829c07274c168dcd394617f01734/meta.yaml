@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/949d829c07274c168dcd394617f01734/artifacts
+end_time: 1757705612001
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 949d829c07274c168dcd394617f01734
+run_name: learned-mole-25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757705611647
+status: 3
+tags: []
+user_id: Lenovo

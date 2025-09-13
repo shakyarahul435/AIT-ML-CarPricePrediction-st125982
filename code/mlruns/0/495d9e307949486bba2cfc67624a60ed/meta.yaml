@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/495d9e307949486bba2cfc67624a60ed/artifacts
+end_time: 1757706315863
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 495d9e307949486bba2cfc67624a60ed
+run_name: popular-ray-901
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757706315468
+status: 3
+tags: []
+user_id: Lenovo

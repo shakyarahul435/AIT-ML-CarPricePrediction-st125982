@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/95a30ffa279f40fdaeac9e1b74bcff86/artifacts
+end_time: 1757704845369
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 95a30ffa279f40fdaeac9e1b74bcff86
+run_name: adaptable-koi-314
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757704845021
+status: 3
+tags: []
+user_id: Lenovo

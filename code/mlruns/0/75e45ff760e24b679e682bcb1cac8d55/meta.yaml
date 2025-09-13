@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/75e45ff760e24b679e682bcb1cac8d55/artifacts
+end_time: 1757705617264
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 75e45ff760e24b679e682bcb1cac8d55
+run_name: wise-squirrel-30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757705616922
+status: 3
+tags: []
+user_id: Lenovo

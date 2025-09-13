@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/87cd3d17733d4c56a4a11f955fb58e2f/artifacts
+end_time: 1757688451792
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 87cd3d17733d4c56a4a11f955fb58e2f
+run_name: bustling-rook-135
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757688450481
+status: 3
+tags: []
+user_id: Lenovo

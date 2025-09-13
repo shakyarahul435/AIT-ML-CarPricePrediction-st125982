@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/190877290999588017/677fb8c6df31496ca82eeabb56cbcd4e/artifacts
+end_time: 1757557894661
+entry_point_name: ''
+experiment_id: '190877290999588017'
+lifecycle_stage: active
+run_id: 677fb8c6df31496ca82eeabb56cbcd4e
+run_name: Fold-1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757557865421
+status: 3
+tags: []
+user_id: Lenovo

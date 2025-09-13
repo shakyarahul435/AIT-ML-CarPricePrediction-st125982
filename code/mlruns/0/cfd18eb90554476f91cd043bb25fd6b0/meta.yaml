@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/cfd18eb90554476f91cd043bb25fd6b0/artifacts
+end_time: 1757705653426
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cfd18eb90554476f91cd043bb25fd6b0
+run_name: mercurial-stoat-761
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757705653131
+status: 3
+tags: []
+user_id: Lenovo

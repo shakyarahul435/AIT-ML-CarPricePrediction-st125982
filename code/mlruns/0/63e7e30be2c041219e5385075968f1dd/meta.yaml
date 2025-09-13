@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/63e7e30be2c041219e5385075968f1dd/artifacts
+end_time: 1757694888358
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 63e7e30be2c041219e5385075968f1dd
+run_name: clumsy-ray-535
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757694886661
+status: 3
+tags: []
+user_id: Lenovo

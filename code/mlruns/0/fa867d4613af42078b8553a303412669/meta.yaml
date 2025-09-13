@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/fa867d4613af42078b8553a303412669/artifacts
+end_time: 1757699942882
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fa867d4613af42078b8553a303412669
+run_name: resilient-whale-941
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757699941109
+status: 3
+tags: []
+user_id: Lenovo

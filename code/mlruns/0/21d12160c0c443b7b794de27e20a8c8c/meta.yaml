@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/21d12160c0c443b7b794de27e20a8c8c/artifacts
+end_time: 1757768153616
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 21d12160c0c443b7b794de27e20a8c8c
+run_name: bald-fawn-957
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757768153242
+status: 3
+tags: []
+user_id: Lenovo

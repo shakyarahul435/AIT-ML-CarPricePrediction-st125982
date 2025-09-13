@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/a315be70f5984389a0ded06de642a74b/artifacts
+end_time: 1757704753817
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a315be70f5984389a0ded06de642a74b
+run_name: smiling-bug-960
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757704753536
+status: 3
+tags: []
+user_id: Lenovo

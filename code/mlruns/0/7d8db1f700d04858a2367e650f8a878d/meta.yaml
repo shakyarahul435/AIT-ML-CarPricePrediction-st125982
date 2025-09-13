@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/7d8db1f700d04858a2367e650f8a878d/artifacts
+end_time: 1757699882303
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7d8db1f700d04858a2367e650f8a878d
+run_name: orderly-seal-182
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757699875439
+status: 3
+tags: []
+user_id: Lenovo

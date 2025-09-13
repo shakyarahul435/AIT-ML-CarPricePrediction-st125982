@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/d1c04bfceea64d1d81f3f205be11e160/artifacts
+end_time: 1757705630318
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d1c04bfceea64d1d81f3f205be11e160
+run_name: receptive-smelt-50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757705629947
+status: 3
+tags: []
+user_id: Lenovo

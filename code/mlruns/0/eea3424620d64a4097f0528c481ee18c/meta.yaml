@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/eea3424620d64a4097f0528c481ee18c/artifacts
+end_time: 1757692256824
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eea3424620d64a4097f0528c481ee18c
+run_name: zealous-squirrel-528
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757692255278
+status: 3
+tags: []
+user_id: Lenovo

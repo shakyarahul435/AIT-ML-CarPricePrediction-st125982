@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/374df03e09234fe7a443ee11991b6b3f/artifacts
+end_time: 1757706364635
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 374df03e09234fe7a443ee11991b6b3f
+run_name: bedecked-goose-491
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757706364098
+status: 3
+tags: []
+user_id: Lenovo

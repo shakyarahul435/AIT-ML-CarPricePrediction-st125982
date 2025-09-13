@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/d4ddba293f7a46e0950a0b2a15e3c8c2/artifacts
+end_time: 1757770889591
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d4ddba293f7a46e0950a0b2a15e3c8c2
+run_name: marvelous-donkey-140
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757770889202
+status: 3
+tags: []
+user_id: Lenovo

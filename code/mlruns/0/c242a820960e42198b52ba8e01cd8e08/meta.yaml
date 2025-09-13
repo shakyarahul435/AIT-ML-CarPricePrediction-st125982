@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/c242a820960e42198b52ba8e01cd8e08/artifacts
+end_time: 1757686206503
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c242a820960e42198b52ba8e01cd8e08
+run_name: mercurial-wren-126
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757686205467
+status: 3
+tags: []
+user_id: Lenovo

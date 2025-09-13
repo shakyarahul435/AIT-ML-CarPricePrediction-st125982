@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/4680ef71c16540de8a3d13b2c347f50d/artifacts
+end_time: 1757696367952
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4680ef71c16540de8a3d13b2c347f50d
+run_name: trusting-rook-64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757696367407
+status: 3
+tags: []
+user_id: Lenovo

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/7ecf5e64bc2048239dd27473d02d0d7b/artifacts
+end_time: 1757706346017
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7ecf5e64bc2048239dd27473d02d0d7b
+run_name: traveling-fox-680
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757706345638
+status: 3
+tags: []
+user_id: Lenovo

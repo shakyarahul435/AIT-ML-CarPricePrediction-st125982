@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/ffeb1753ffcc4bbf8a34e0ef1a3866d7/artifacts
+end_time: 1757770997111
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ffeb1753ffcc4bbf8a34e0ef1a3866d7
+run_name: resilient-midge-618
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757770996671
+status: 3
+tags: []
+user_id: Lenovo

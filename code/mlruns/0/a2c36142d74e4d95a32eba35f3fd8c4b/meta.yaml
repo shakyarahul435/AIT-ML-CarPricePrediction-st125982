@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/a2c36142d74e4d95a32eba35f3fd8c4b/artifacts
+end_time: 1757771005328
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a2c36142d74e4d95a32eba35f3fd8c4b
+run_name: stately-elk-216
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757771005043
+status: 3
+tags: []
+user_id: Lenovo

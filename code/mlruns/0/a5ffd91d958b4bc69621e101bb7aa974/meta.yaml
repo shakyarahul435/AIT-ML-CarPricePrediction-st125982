@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/a5ffd91d958b4bc69621e101bb7aa974/artifacts
+end_time: 1757706367229
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a5ffd91d958b4bc69621e101bb7aa974
+run_name: nervous-wasp-205
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757706366946
+status: 3
+tags: []
+user_id: Lenovo

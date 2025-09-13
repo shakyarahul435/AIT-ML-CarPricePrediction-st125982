@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/bc819096960b4262a6e7d2f6e59be863/artifacts
+end_time: 1757703950444
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bc819096960b4262a6e7d2f6e59be863
+run_name: caring-colt-404
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757703950005
+status: 3
+tags: []
+user_id: Lenovo

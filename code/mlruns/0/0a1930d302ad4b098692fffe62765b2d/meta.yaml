@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/0a1930d302ad4b098692fffe62765b2d/artifacts
+end_time: 1757705660884
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0a1930d302ad4b098692fffe62765b2d
+run_name: peaceful-boar-784
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757705660555
+status: 3
+tags: []
+user_id: Lenovo

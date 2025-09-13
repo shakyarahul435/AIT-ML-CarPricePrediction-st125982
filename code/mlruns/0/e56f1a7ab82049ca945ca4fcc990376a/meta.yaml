@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/e56f1a7ab82049ca945ca4fcc990376a/artifacts
+end_time: 1757770989994
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e56f1a7ab82049ca945ca4fcc990376a
+run_name: polite-gull-999
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757770989587
+status: 3
+tags: []
+user_id: Lenovo

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/23d2ced473334a1b915549b6b76dbf8d/artifacts
+end_time: 1757704847711
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 23d2ced473334a1b915549b6b76dbf8d
+run_name: wise-grouse-480
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757704847249
+status: 3
+tags: []
+user_id: Lenovo

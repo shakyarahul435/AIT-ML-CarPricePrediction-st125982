@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/5d81481b7177409eb568dfc4dadc9fe2/artifacts
+end_time: 1757699663580
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5d81481b7177409eb568dfc4dadc9fe2
+run_name: languid-fowl-368
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757699660115
+status: 3
+tags: []
+user_id: Lenovo

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/3cb1f41bce7343dfb381938216ebce44/artifacts
+end_time: 1757688560792
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3cb1f41bce7343dfb381938216ebce44
+run_name: abundant-gull-470
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757688559442
+status: 3
+tags: []
+user_id: Lenovo

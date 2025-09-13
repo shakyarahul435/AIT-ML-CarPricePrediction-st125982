@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/5976d2e4c377460ab6f2365f57d965a8/artifacts
+end_time: 1757768164468
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5976d2e4c377460ab6f2365f57d965a8
+run_name: thundering-bird-768
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757768164166
+status: 3
+tags: []
+user_id: Lenovo

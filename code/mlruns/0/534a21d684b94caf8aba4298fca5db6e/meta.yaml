@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/534a21d684b94caf8aba4298fca5db6e/artifacts
+end_time: 1757705647418
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 534a21d684b94caf8aba4298fca5db6e
+run_name: dashing-bee-580
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757705647122
+status: 3
+tags: []
+user_id: Lenovo

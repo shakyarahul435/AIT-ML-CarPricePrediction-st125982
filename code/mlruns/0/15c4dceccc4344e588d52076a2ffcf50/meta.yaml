@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/15c4dceccc4344e588d52076a2ffcf50/artifacts
+end_time: 1757694731708
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 15c4dceccc4344e588d52076a2ffcf50
+run_name: crawling-shrike-464
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757694730327
+status: 3
+tags: []
+user_id: Lenovo

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/7459f12415f04051b98d369d61285e9a/artifacts
+end_time: 1757694608451
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7459f12415f04051b98d369d61285e9a
+run_name: polite-hawk-713
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757694605978
+status: 3
+tags: []
+user_id: Lenovo

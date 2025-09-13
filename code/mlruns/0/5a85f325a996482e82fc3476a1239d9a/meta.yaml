@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/5a85f325a996482e82fc3476a1239d9a/artifacts
+end_time: 1757705665809
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5a85f325a996482e82fc3476a1239d9a
+run_name: smiling-ram-798
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757705665483
+status: 3
+tags: []
+user_id: Lenovo

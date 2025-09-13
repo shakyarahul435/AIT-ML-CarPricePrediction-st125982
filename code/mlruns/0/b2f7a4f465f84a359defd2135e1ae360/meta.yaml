@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/b2f7a4f465f84a359defd2135e1ae360/artifacts
+end_time: 1757768255559
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b2f7a4f465f84a359defd2135e1ae360
+run_name: bouncy-ray-873
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757768255188
+status: 3
+tags: []
+user_id: Lenovo

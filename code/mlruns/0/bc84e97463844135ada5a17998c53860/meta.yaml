@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/bc84e97463844135ada5a17998c53860/artifacts
+end_time: 1757688224757
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bc84e97463844135ada5a17998c53860
+run_name: nimble-hog-339
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757688223800
+status: 3
+tags: []
+user_id: Lenovo

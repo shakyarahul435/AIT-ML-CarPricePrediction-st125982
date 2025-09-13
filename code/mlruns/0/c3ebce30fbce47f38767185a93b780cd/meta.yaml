@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/c3ebce30fbce47f38767185a93b780cd/artifacts
+end_time: 1757704865113
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c3ebce30fbce47f38767185a93b780cd
+run_name: burly-pug-40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757704864752
+status: 3
+tags: []
+user_id: Lenovo

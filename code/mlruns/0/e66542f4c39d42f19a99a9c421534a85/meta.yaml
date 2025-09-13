@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/e66542f4c39d42f19a99a9c421534a85/artifacts
+end_time: 1757699667312
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e66542f4c39d42f19a99a9c421534a85
+run_name: casual-midge-852
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757699665945
+status: 3
+tags: []
+user_id: Lenovo

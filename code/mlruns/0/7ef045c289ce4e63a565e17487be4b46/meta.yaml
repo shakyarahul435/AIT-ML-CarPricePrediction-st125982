@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/7ef045c289ce4e63a565e17487be4b46/artifacts
+end_time: 1757704838881
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7ef045c289ce4e63a565e17487be4b46
+run_name: colorful-snipe-327
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757704838586
+status: 3
+tags: []
+user_id: Lenovo

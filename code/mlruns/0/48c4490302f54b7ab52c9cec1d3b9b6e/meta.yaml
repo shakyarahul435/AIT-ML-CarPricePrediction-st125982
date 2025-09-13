@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/48c4490302f54b7ab52c9cec1d3b9b6e/artifacts
+end_time: 1757694555816
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 48c4490302f54b7ab52c9cec1d3b9b6e
+run_name: adaptable-shrike-804
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757694553691
+status: 3
+tags: []
+user_id: Lenovo

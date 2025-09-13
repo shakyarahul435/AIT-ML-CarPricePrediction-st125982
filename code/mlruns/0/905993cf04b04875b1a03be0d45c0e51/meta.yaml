@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/905993cf04b04875b1a03be0d45c0e51/artifacts
+end_time: 1757699805216
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 905993cf04b04875b1a03be0d45c0e51
+run_name: bedecked-gull-944
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757699804754
+status: 3
+tags: []
+user_id: Lenovo

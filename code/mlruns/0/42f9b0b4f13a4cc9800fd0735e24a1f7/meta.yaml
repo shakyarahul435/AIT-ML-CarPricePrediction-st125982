@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/42f9b0b4f13a4cc9800fd0735e24a1f7/artifacts
+end_time: 1757694723743
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 42f9b0b4f13a4cc9800fd0735e24a1f7
+run_name: masked-shrew-56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757694723340
+status: 3
+tags: []
+user_id: Lenovo

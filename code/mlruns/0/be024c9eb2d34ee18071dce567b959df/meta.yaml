@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/be024c9eb2d34ee18071dce567b959df/artifacts
+end_time: 1757699524913
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: be024c9eb2d34ee18071dce567b959df
+run_name: dapper-gull-416
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757699522237
+status: 3
+tags: []
+user_id: Lenovo

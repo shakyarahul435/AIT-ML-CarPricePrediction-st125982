@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/3733f97dd9f9403e9487fc20b5c0ca87/artifacts
+end_time: 1757703680381
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3733f97dd9f9403e9487fc20b5c0ca87
+run_name: upset-finch-480
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757703680069
+status: 3
+tags: []
+user_id: Lenovo

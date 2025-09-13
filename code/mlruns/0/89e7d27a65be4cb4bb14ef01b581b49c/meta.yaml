@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/89e7d27a65be4cb4bb14ef01b581b49c/artifacts
+end_time: 1757703969488
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 89e7d27a65be4cb4bb14ef01b581b49c
+run_name: capable-chimp-242
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757703969090
+status: 3
+tags: []
+user_id: Lenovo

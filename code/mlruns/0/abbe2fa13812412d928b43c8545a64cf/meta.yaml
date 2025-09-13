@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/abbe2fa13812412d928b43c8545a64cf/artifacts
+end_time: 1757688369422
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: abbe2fa13812412d928b43c8545a64cf
+run_name: caring-dolphin-29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757688368404
+status: 3
+tags: []
+user_id: Lenovo

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/45ba4a9fc0de4e1b819543824fcccb40/artifacts
+end_time: 1757688349535
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 45ba4a9fc0de4e1b819543824fcccb40
+run_name: awesome-fawn-550
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757688348379
+status: 3
+tags: []
+user_id: Lenovo

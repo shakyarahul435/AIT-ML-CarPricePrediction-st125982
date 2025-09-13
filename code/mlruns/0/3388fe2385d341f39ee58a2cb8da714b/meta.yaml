@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/3388fe2385d341f39ee58a2cb8da714b/artifacts
+end_time: 1757768272824
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3388fe2385d341f39ee58a2cb8da714b
+run_name: awesome-shrew-19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757768272312
+status: 3
+tags: []
+user_id: Lenovo

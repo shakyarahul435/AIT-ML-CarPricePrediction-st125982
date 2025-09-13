@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/789ac4178a034303b84e5c8f337e230e/artifacts
+end_time: 1757703944684
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 789ac4178a034303b84e5c8f337e230e
+run_name: loud-sloth-960
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757703944401
+status: 3
+tags: []
+user_id: Lenovo

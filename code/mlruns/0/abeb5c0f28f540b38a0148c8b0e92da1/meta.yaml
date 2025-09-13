@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/abeb5c0f28f540b38a0148c8b0e92da1/artifacts
+end_time: 1757692367020
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: abeb5c0f28f540b38a0148c8b0e92da1
+run_name: orderly-koi-748
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757692364871
+status: 3
+tags: []
+user_id: Lenovo

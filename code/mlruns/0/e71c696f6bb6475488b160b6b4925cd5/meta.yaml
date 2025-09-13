@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/e71c696f6bb6475488b160b6b4925cd5/artifacts
+end_time: 1757688287203
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e71c696f6bb6475488b160b6b4925cd5
+run_name: traveling-carp-330
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757688285918
+status: 3
+tags: []
+user_id: Lenovo

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/fc9acef43afa42659d90737f48c5bb6d/artifacts
+end_time: 1757703705962
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fc9acef43afa42659d90737f48c5bb6d
+run_name: trusting-quail-366
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757703705688
+status: 3
+tags: []
+user_id: Lenovo

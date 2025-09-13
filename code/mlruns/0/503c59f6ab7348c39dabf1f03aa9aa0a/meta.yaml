@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/503c59f6ab7348c39dabf1f03aa9aa0a/artifacts
+end_time: 1757768273488
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 503c59f6ab7348c39dabf1f03aa9aa0a
+run_name: mysterious-flea-761
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757768273119
+status: 3
+tags: []
+user_id: Lenovo

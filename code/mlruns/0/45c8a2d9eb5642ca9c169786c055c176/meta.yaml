@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/45c8a2d9eb5642ca9c169786c055c176/artifacts
+end_time: 1757688371698
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 45c8a2d9eb5642ca9c169786c055c176
+run_name: glamorous-pig-807
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757688370453
+status: 3
+tags: []
+user_id: Lenovo

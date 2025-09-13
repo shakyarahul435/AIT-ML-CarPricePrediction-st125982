@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/f7191ee1ec3344ef9617a4200f12437c/artifacts
+end_time: 1757768120386
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f7191ee1ec3344ef9617a4200f12437c
+run_name: gentle-turtle-228
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757768120068
+status: 3
+tags: []
+user_id: Lenovo

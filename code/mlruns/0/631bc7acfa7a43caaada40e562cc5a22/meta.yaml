@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/631bc7acfa7a43caaada40e562cc5a22/artifacts
+end_time: 1757692259028
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 631bc7acfa7a43caaada40e562cc5a22
+run_name: gregarious-wren-413
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757692257148
+status: 3
+tags: []
+user_id: Lenovo

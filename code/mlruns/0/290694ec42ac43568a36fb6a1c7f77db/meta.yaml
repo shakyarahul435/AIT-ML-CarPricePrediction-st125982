@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/290694ec42ac43568a36fb6a1c7f77db/artifacts
+end_time: 1757706320078
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 290694ec42ac43568a36fb6a1c7f77db
+run_name: spiffy-rat-586
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757706319729
+status: 3
+tags: []
+user_id: Lenovo

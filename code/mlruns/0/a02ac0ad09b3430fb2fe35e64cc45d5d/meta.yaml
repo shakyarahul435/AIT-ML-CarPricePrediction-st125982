@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/a02ac0ad09b3430fb2fe35e64cc45d5d/artifacts
+end_time: 1757703706258
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a02ac0ad09b3430fb2fe35e64cc45d5d
+run_name: abundant-fawn-531
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757703705966
+status: 3
+tags: []
+user_id: Lenovo

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/15c5b43f29b64d2fba94b69fd0ce7793/artifacts
+end_time: 1757703679486
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 15c5b43f29b64d2fba94b69fd0ce7793
+run_name: bald-jay-41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757703679145
+status: 3
+tags: []
+user_id: Lenovo

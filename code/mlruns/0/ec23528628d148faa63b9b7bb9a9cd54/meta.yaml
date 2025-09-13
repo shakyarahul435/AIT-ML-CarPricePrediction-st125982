@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/ec23528628d148faa63b9b7bb9a9cd54/artifacts
+end_time: 1757686213102
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ec23528628d148faa63b9b7bb9a9cd54
+run_name: bedecked-worm-905
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757686212282
+status: 3
+tags: []
+user_id: Lenovo

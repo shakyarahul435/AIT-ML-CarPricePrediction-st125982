@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/2ad500d5fc7a4354bb55c1b5244e5b48/artifacts
+end_time: 1757703952267
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2ad500d5fc7a4354bb55c1b5244e5b48
+run_name: funny-crab-100
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757703951946
+status: 3
+tags: []
+user_id: Lenovo

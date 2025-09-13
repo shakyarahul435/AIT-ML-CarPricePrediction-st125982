@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/900687e03806403ba06b6e6ac8d7ce5e/artifacts
+end_time: 1757686250660
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 900687e03806403ba06b6e6ac8d7ce5e
+run_name: mercurial-turtle-198
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757686249457
+status: 3
+tags: []
+user_id: Lenovo

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/bff3dff98de742ff876f3d37c07342c6/artifacts
+end_time: 1757695906478
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bff3dff98de742ff876f3d37c07342c6
+run_name: calm-cat-93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757695905482
+status: 3
+tags: []
+user_id: Lenovo

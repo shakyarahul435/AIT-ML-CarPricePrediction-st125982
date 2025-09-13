@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/ad4273cd1ee94a5a991890ecc4b1e4ff/artifacts
+end_time: 1757766976926
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ad4273cd1ee94a5a991890ecc4b1e4ff
+run_name: capable-colt-4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757766976651
+status: 3
+tags: []
+user_id: Lenovo

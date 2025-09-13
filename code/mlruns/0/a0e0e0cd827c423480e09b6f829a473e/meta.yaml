@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/a0e0e0cd827c423480e09b6f829a473e/artifacts
+end_time: 1757703959375
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a0e0e0cd827c423480e09b6f829a473e
+run_name: omniscient-seal-838
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757703959024
+status: 3
+tags: []
+user_id: Lenovo

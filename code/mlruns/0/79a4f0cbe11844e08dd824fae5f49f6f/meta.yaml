@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/79a4f0cbe11844e08dd824fae5f49f6f/artifacts
+end_time: 1757698622291
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 79a4f0cbe11844e08dd824fae5f49f6f
+run_name: big-bug-381
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757698614578
+status: 3
+tags: []
+user_id: Lenovo

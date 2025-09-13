@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/648f111191e848fd9e77e65b0e166660/artifacts
+end_time: 1757766962704
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 648f111191e848fd9e77e65b0e166660
+run_name: bald-doe-900
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757766962370
+status: 3
+tags: []
+user_id: Lenovo

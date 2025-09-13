@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/d472c4fcc4164786b8e46f52732a3b11/artifacts
+end_time: 1757704830034
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d472c4fcc4164786b8e46f52732a3b11
+run_name: sassy-conch-54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757704829710
+status: 3
+tags: []
+user_id: Lenovo

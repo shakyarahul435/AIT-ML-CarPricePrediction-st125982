@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/758717ef79ab4886a36c58745e10d4bd/artifacts
+end_time: 1757771010072
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 758717ef79ab4886a36c58745e10d4bd
+run_name: placid-kite-120
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757771009622
+status: 3
+tags: []
+user_id: Lenovo

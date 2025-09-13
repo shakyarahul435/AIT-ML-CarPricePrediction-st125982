@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/81a1534dc3c54886ab361f1b7af004d0/artifacts
+end_time: 1757704718781
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 81a1534dc3c54886ab361f1b7af004d0
+run_name: adaptable-hound-129
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757704718432
+status: 3
+tags: []
+user_id: Lenovo

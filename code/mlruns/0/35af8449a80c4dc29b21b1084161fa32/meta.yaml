@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/35af8449a80c4dc29b21b1084161fa32/artifacts
+end_time: 1757771010541
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 35af8449a80c4dc29b21b1084161fa32
+run_name: fearless-newt-869
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757771010077
+status: 3
+tags: []
+user_id: Lenovo

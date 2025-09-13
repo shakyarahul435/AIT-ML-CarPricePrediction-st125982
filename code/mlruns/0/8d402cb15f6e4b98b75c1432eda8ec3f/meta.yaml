@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/8d402cb15f6e4b98b75c1432eda8ec3f/artifacts
+end_time: 1757704766005
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8d402cb15f6e4b98b75c1432eda8ec3f
+run_name: popular-stag-360
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757704765696
+status: 3
+tags: []
+user_id: Lenovo

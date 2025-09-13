@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/2fd2b5fe2bd14e7c863a16b85e91da54/artifacts
+end_time: 1757694883052
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2fd2b5fe2bd14e7c863a16b85e91da54
+run_name: caring-dog-717
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757694881397
+status: 3
+tags: []
+user_id: Lenovo

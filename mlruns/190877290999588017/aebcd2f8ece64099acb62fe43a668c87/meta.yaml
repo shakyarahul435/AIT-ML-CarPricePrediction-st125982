@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/190877290999588017/aebcd2f8ece64099acb62fe43a668c87/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '190877290999588017'
+lifecycle_stage: active
+run_id: aebcd2f8ece64099acb62fe43a668c87
+run_name: method-batch-lr-0.1-reg-Lasso-poly-True
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757531019218
+status: 1
+tags: []
+user_id: Lenovo

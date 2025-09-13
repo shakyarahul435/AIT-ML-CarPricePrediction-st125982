@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/c631e5e4ad6144bb8fc650d345ce1d7f/artifacts
+end_time: 1757686235348
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c631e5e4ad6144bb8fc650d345ce1d7f
+run_name: whimsical-kite-280
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757686234088
+status: 3
+tags: []
+user_id: Lenovo

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/8850a491d1904e71a635c4d2fcef79e7/artifacts
+end_time: 1757704758125
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8850a491d1904e71a635c4d2fcef79e7
+run_name: clean-stoat-943
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757704757666
+status: 3
+tags: []
+user_id: Lenovo

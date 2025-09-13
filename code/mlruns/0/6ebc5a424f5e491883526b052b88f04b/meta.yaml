@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/6ebc5a424f5e491883526b052b88f04b/artifacts
+end_time: 1757703934143
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6ebc5a424f5e491883526b052b88f04b
+run_name: debonair-dove-438
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757703933873
+status: 3
+tags: []
+user_id: Lenovo

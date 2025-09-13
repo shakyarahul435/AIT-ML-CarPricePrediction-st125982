@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/00656425ab834b0082c43b13f9a19ae2/artifacts
+end_time: 1757694867615
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 00656425ab834b0082c43b13f9a19ae2
+run_name: classy-moose-282
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757694865249
+status: 3
+tags: []
+user_id: Lenovo

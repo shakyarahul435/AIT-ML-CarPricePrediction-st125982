@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/4982b3edd7be480a95e489fd53dd2be5/artifacts
+end_time: 1757770932907
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4982b3edd7be480a95e489fd53dd2be5
+run_name: invincible-smelt-402
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757770932529
+status: 3
+tags: []
+user_id: Lenovo

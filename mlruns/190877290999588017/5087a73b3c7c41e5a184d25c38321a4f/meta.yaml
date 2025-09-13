@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/190877290999588017/5087a73b3c7c41e5a184d25c38321a4f/artifacts
+end_time: 1757558247619
+entry_point_name: ''
+experiment_id: '190877290999588017'
+lifecycle_stage: active
+run_id: 5087a73b3c7c41e5a184d25c38321a4f
+run_name: method-batch-lr-0.0001-reg-Lasso-poly-False-momentum-Momentum not used-init-xavier
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757558130688
+status: 3
+tags: []
+user_id: Lenovo

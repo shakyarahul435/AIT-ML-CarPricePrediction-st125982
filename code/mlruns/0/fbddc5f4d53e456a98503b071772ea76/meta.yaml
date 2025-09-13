@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/fbddc5f4d53e456a98503b071772ea76/artifacts
+end_time: 1757688232359
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fbddc5f4d53e456a98503b071772ea76
+run_name: suave-hare-534
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757688232096
+status: 3
+tags: []
+user_id: Lenovo

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/8ce5c717dad241449d31be62ebbef72b/artifacts
+end_time: 1757688566737
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8ce5c717dad241449d31be62ebbef72b
+run_name: loud-stoat-656
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757688564666
+status: 3
+tags: []
+user_id: Lenovo

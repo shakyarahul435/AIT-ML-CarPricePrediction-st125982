@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/b268b0235a0041cd95a592fc6dd2a60b/artifacts
+end_time: 1757699710650
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b268b0235a0041cd95a592fc6dd2a60b
+run_name: redolent-worm-303
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757699701429
+status: 3
+tags: []
+user_id: Lenovo

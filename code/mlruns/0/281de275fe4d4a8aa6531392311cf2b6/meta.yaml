@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/281de275fe4d4a8aa6531392311cf2b6/artifacts
+end_time: 1757705629942
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 281de275fe4d4a8aa6531392311cf2b6
+run_name: thoughtful-squid-409
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757705629475
+status: 3
+tags: []
+user_id: Lenovo

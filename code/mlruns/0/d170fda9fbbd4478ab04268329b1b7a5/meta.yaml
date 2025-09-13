@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/d170fda9fbbd4478ab04268329b1b7a5/artifacts
+end_time: 1757688245699
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d170fda9fbbd4478ab04268329b1b7a5
+run_name: calm-chimp-875
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757688244409
+status: 3
+tags: []
+user_id: Lenovo

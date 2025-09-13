@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/6fd29ced8df54bd2903c816cc8e19e2f/artifacts
+end_time: 1757706337325
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6fd29ced8df54bd2903c816cc8e19e2f
+run_name: whimsical-wren-382
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757706336784
+status: 3
+tags: []
+user_id: Lenovo

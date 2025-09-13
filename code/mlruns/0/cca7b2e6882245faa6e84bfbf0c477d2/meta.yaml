@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/cca7b2e6882245faa6e84bfbf0c477d2/artifacts
+end_time: 1757698425148
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cca7b2e6882245faa6e84bfbf0c477d2
+run_name: rare-toad-128
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757698423893
+status: 3
+tags: []
+user_id: Lenovo

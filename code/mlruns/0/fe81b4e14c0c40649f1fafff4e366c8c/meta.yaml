@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/fe81b4e14c0c40649f1fafff4e366c8c/artifacts
+end_time: 1757694803130
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fe81b4e14c0c40649f1fafff4e366c8c
+run_name: smiling-koi-285
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757694802045
+status: 3
+tags: []
+user_id: Lenovo

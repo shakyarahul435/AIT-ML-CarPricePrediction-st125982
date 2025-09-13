@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/fc508f99c23e4477b9b07346923a6298/artifacts
+end_time: 1757770936580
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fc508f99c23e4477b9b07346923a6298
+run_name: gentle-calf-342
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757770936197
+status: 3
+tags: []
+user_id: Lenovo

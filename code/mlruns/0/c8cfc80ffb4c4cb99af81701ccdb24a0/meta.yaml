@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/c8cfc80ffb4c4cb99af81701ccdb24a0/artifacts
+end_time: 1757703928592
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c8cfc80ffb4c4cb99af81701ccdb24a0
+run_name: loud-turtle-137
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757703928315
+status: 3
+tags: []
+user_id: Lenovo

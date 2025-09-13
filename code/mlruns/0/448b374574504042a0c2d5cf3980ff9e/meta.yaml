@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/448b374574504042a0c2d5cf3980ff9e/artifacts
+end_time: 1757694579068
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 448b374574504042a0c2d5cf3980ff9e
+run_name: masked-sloth-495
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757694576863
+status: 3
+tags: []
+user_id: Lenovo

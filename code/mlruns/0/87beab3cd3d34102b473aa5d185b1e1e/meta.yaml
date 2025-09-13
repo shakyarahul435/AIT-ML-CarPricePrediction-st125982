@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/87beab3cd3d34102b473aa5d185b1e1e/artifacts
+end_time: 1757705616610
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 87beab3cd3d34102b473aa5d185b1e1e
+run_name: stately-smelt-809
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757705616314
+status: 3
+tags: []
+user_id: Lenovo

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/7faf8761447c49beb611549fbf05a40b/artifacts
+end_time: 1757706357737
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7faf8761447c49beb611549fbf05a40b
+run_name: learned-flea-668
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757706357279
+status: 3
+tags: []
+user_id: Lenovo

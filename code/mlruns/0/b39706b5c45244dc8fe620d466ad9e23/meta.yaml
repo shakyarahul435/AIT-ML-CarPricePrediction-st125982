@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/b39706b5c45244dc8fe620d466ad9e23/artifacts
+end_time: 1757704752931
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b39706b5c45244dc8fe620d466ad9e23
+run_name: dashing-cow-255
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757704752620
+status: 3
+tags: []
+user_id: Lenovo

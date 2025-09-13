@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/dfa8fbedfdd64ca3970a7bd5aee567b5/artifacts
+end_time: 1757768151885
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dfa8fbedfdd64ca3970a7bd5aee567b5
+run_name: bouncy-skunk-739
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757768151606
+status: 3
+tags: []
+user_id: Lenovo

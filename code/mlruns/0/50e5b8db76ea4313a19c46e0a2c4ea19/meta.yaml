@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/50e5b8db76ea4313a19c46e0a2c4ea19/artifacts
+end_time: 1757688538684
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 50e5b8db76ea4313a19c46e0a2c4ea19
+run_name: gentle-ant-199
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757688536701
+status: 3
+tags: []
+user_id: Lenovo

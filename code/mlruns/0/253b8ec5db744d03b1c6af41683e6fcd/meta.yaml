@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/253b8ec5db744d03b1c6af41683e6fcd/artifacts
+end_time: 1757703945582
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 253b8ec5db744d03b1c6af41683e6fcd
+run_name: judicious-skink-915
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757703945274
+status: 3
+tags: []
+user_id: Lenovo

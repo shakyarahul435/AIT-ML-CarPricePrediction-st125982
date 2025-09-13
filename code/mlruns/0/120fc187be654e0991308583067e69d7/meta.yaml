@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/120fc187be654e0991308583067e69d7/artifacts
+end_time: 1757694545933
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 120fc187be654e0991308583067e69d7
+run_name: intelligent-bird-704
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757694544697
+status: 3
+tags: []
+user_id: Lenovo

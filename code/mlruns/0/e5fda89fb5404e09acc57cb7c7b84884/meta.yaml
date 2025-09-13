@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/e5fda89fb5404e09acc57cb7c7b84884/artifacts
+end_time: 1757688411584
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e5fda89fb5404e09acc57cb7c7b84884
+run_name: spiffy-hare-19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757688409451
+status: 3
+tags: []
+user_id: Lenovo

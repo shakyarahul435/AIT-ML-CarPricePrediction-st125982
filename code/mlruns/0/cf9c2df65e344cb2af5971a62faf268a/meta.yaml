@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/cf9c2df65e344cb2af5971a62faf268a/artifacts
+end_time: 1757770936959
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cf9c2df65e344cb2af5971a62faf268a
+run_name: likeable-fish-989
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757770936586
+status: 3
+tags: []
+user_id: Lenovo

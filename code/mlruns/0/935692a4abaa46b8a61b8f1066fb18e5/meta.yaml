@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/935692a4abaa46b8a61b8f1066fb18e5/artifacts
+end_time: 1757768273812
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 935692a4abaa46b8a61b8f1066fb18e5
+run_name: mercurial-calf-719
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757768273492
+status: 3
+tags: []
+user_id: Lenovo

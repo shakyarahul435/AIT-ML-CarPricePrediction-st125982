@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/c3d1a89435e240a7a022a41a0c8f9dad/artifacts
+end_time: 1757766956207
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c3d1a89435e240a7a022a41a0c8f9dad
+run_name: rambunctious-hog-854
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757766955909
+status: 3
+tags: []
+user_id: Lenovo

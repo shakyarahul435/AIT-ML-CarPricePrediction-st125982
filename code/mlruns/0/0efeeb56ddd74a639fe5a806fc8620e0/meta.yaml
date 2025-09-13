@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/0efeeb56ddd74a639fe5a806fc8620e0/artifacts
+end_time: 1757768138914
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0efeeb56ddd74a639fe5a806fc8620e0
+run_name: likeable-calf-935
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757768138573
+status: 3
+tags: []
+user_id: Lenovo

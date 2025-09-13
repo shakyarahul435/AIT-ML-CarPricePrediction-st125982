@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/40f2ebdb1233488baf97f44f448da38e/artifacts
+end_time: 1757704720274
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 40f2ebdb1233488baf97f44f448da38e
+run_name: clean-wolf-574
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757704719845
+status: 3
+tags: []
+user_id: Lenovo

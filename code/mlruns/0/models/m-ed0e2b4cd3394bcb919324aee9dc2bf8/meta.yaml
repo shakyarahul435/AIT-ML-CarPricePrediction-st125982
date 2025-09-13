@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/models/m-ed0e2b4cd3394bcb919324aee9dc2bf8/artifacts
+creation_timestamp: 1757526800763
+experiment_id: '0'
+last_updated_timestamp: 1757526806005
+model_id: m-ed0e2b4cd3394bcb919324aee9dc2bf8
+model_type: null
+name: model
+source_run_id: 0ab48766d2c64c91bdfe6afcae14ee30
+status: 2
+status_message: null

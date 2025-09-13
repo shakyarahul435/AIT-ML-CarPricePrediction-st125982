@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/241dd19bd2f4418ebd64d5ab261c30ef/artifacts
+end_time: 1757703713370
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 241dd19bd2f4418ebd64d5ab261c30ef
+run_name: crawling-bear-157
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757703712978
+status: 3
+tags: []
+user_id: Lenovo

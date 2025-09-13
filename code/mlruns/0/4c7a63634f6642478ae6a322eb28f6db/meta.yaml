@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/4c7a63634f6642478ae6a322eb28f6db/artifacts
+end_time: 1757686207338
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4c7a63634f6642478ae6a322eb28f6db
+run_name: orderly-shrike-929
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757686206505
+status: 3
+tags: []
+user_id: Lenovo

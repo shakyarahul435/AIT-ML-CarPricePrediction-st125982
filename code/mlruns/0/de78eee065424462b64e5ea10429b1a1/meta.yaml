@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/de78eee065424462b64e5ea10429b1a1/artifacts
+end_time: 1757686257352
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: de78eee065424462b64e5ea10429b1a1
+run_name: stately-lynx-812
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757686255891
+status: 3
+tags: []
+user_id: Lenovo

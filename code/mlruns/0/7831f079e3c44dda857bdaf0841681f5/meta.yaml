@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/7831f079e3c44dda857bdaf0841681f5/artifacts
+end_time: 1757692250164
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7831f079e3c44dda857bdaf0841681f5
+run_name: casual-loon-320
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757692247970
+status: 3
+tags: []
+user_id: Lenovo

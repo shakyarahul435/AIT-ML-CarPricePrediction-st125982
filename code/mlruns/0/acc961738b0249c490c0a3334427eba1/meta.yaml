@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/acc961738b0249c490c0a3334427eba1/artifacts
+end_time: 1757704735888
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: acc961738b0249c490c0a3334427eba1
+run_name: polite-midge-205
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757704735609
+status: 3
+tags: []
+user_id: Lenovo

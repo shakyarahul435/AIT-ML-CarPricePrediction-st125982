@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/703f9fd7008d42cca5531546f5f82cff/artifacts
+end_time: 1757703698128
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 703f9fd7008d42cca5531546f5f82cff
+run_name: nimble-ram-930
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757703697838
+status: 3
+tags: []
+user_id: Lenovo

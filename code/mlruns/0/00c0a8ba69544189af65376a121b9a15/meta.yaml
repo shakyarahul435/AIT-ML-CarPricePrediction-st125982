@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/00c0a8ba69544189af65376a121b9a15/artifacts
+end_time: 1757768131946
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 00c0a8ba69544189af65376a121b9a15
+run_name: unruly-snake-863
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757768131539
+status: 3
+tags: []
+user_id: Lenovo

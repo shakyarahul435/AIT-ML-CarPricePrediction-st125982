@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/f0ca5e6751a548ee91a024d9b63de8ff/artifacts
+end_time: 1757696681998
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f0ca5e6751a548ee91a024d9b63de8ff
+run_name: secretive-donkey-706
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757696680728
+status: 3
+tags: []
+user_id: Lenovo

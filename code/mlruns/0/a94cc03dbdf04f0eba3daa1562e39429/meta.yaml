@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/a94cc03dbdf04f0eba3daa1562e39429/artifacts
+end_time: 1757703929752
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a94cc03dbdf04f0eba3daa1562e39429
+run_name: nimble-finch-382
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757703929479
+status: 3
+tags: []
+user_id: Lenovo

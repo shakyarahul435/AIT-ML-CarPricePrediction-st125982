@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/4a450ccaf41f45b8906283d1e7024f98/artifacts
+end_time: 1757530208524
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4a450ccaf41f45b8906283d1e7024f98
+run_name: method-mini-lr-0.1-reg-Normal-poly-False-momentum-False-init-zero
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757530155833
+status: 3
+tags: []
+user_id: Lenovo

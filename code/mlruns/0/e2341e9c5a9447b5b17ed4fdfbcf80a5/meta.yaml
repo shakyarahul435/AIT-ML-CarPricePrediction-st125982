@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/e2341e9c5a9447b5b17ed4fdfbcf80a5/artifacts
+end_time: 1757766973598
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e2341e9c5a9447b5b17ed4fdfbcf80a5
+run_name: whimsical-stoat-812
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757766973162
+status: 3
+tags: []
+user_id: Lenovo

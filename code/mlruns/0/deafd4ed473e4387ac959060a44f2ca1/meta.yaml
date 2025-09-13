@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/deafd4ed473e4387ac959060a44f2ca1/artifacts
+end_time: 1757696561354
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: deafd4ed473e4387ac959060a44f2ca1
+run_name: rogue-wasp-800
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757696555740
+status: 3
+tags: []
+user_id: Lenovo

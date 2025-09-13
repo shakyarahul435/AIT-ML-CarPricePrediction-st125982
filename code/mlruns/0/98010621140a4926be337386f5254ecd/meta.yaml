@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/98010621140a4926be337386f5254ecd/artifacts
+end_time: 1757766994527
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 98010621140a4926be337386f5254ecd
+run_name: learned-crow-256
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757766994245
+status: 3
+tags: []
+user_id: Lenovo

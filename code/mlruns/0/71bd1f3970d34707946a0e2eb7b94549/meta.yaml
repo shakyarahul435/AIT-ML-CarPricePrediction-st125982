@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/71bd1f3970d34707946a0e2eb7b94549/artifacts
+end_time: 1757706321737
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 71bd1f3970d34707946a0e2eb7b94549
+run_name: nimble-dog-672
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757706321219
+status: 3
+tags: []
+user_id: Lenovo

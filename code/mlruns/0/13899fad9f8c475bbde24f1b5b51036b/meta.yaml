@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/13899fad9f8c475bbde24f1b5b51036b/artifacts
+end_time: 1757699807577
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 13899fad9f8c475bbde24f1b5b51036b
+run_name: resilient-skunk-732
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757699805220
+status: 3
+tags: []
+user_id: Lenovo

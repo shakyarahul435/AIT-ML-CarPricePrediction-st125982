@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/e87b2967db4e45d593c41bc653a9b6ef/artifacts
+end_time: 1757696653128
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e87b2967db4e45d593c41bc653a9b6ef
+run_name: agreeable-stoat-900
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757696651980
+status: 3
+tags: []
+user_id: Lenovo

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/36a6bfb78d584974b2adcca2109a7da5/artifacts
+end_time: 1757706328583
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 36a6bfb78d584974b2adcca2109a7da5
+run_name: clean-shark-450
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757706328088
+status: 3
+tags: []
+user_id: Lenovo

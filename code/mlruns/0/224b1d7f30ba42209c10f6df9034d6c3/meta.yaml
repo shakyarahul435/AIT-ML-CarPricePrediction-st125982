@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/224b1d7f30ba42209c10f6df9034d6c3/artifacts
+end_time: 1757700511632
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 224b1d7f30ba42209c10f6df9034d6c3
+run_name: masked-bird-358
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757700508591
+status: 3
+tags: []
+user_id: Lenovo

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/ec98aa1bc79644959a5a2aaafa27e694/artifacts
+end_time: 1757705654885
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ec98aa1bc79644959a5a2aaafa27e694
+run_name: colorful-bird-736
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757705654481
+status: 3
+tags: []
+user_id: Lenovo

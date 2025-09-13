@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/2e3c8356ff0d406b8edc3662af68641e/artifacts
+end_time: 1757768256165
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2e3c8356ff0d406b8edc3662af68641e
+run_name: upset-cow-84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757768255870
+status: 3
+tags: []
+user_id: Lenovo

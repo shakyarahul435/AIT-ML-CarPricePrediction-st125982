@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/492b92d4de99471bbdf9e190f8f9098c/artifacts
+end_time: 1757696526573
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 492b92d4de99471bbdf9e190f8f9098c
+run_name: polite-rook-959
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757696525452
+status: 3
+tags: []
+user_id: Lenovo

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/8efe1fc6642a457d8829f64e70faa3cd/artifacts
+end_time: 1757688329009
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8efe1fc6642a457d8829f64e70faa3cd
+run_name: rumbling-lynx-31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757688328070
+status: 3
+tags: []
+user_id: Lenovo

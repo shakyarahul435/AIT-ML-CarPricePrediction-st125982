@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/9844ee93050047168e88ac7421e0a6bb/artifacts
+end_time: 1757699572628
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9844ee93050047168e88ac7421e0a6bb
+run_name: bedecked-mole-726
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757699564580
+status: 3
+tags: []
+user_id: Lenovo

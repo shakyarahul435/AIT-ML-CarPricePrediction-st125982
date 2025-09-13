@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/c7b541db08bf4a068fb5e442c7587ee9/artifacts
+end_time: 1757705641776
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c7b541db08bf4a068fb5e442c7587ee9
+run_name: caring-hawk-230
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757705641366
+status: 3
+tags: []
+user_id: Lenovo

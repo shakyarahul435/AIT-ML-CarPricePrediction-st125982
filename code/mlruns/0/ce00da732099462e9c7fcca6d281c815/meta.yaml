@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/ce00da732099462e9c7fcca6d281c815/artifacts
+end_time: 1757692280481
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ce00da732099462e9c7fcca6d281c815
+run_name: sassy-grouse-839
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757692278140
+status: 3
+tags: []
+user_id: Lenovo

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/f1c1d7c68e044957a74b5ac702f6799c/artifacts
+end_time: 1757703708061
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f1c1d7c68e044957a74b5ac702f6799c
+run_name: burly-fly-695
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757703707630
+status: 3
+tags: []
+user_id: Lenovo

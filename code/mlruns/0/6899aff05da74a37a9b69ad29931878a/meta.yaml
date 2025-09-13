@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/6899aff05da74a37a9b69ad29931878a/artifacts
+end_time: 1757695930763
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6899aff05da74a37a9b69ad29931878a
+run_name: trusting-smelt-551
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757695911369
+status: 3
+tags: []
+user_id: Lenovo

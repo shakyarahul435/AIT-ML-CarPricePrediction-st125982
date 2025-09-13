@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/07dc4ee9bf4c4dbba01efa67de4570b1/artifacts
+end_time: 1757696620799
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 07dc4ee9bf4c4dbba01efa67de4570b1
+run_name: intelligent-gnu-736
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757696620359
+status: 3
+tags: []
+user_id: Lenovo

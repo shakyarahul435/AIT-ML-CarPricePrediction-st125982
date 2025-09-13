@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/abdd357b87294294a203bf3bdfe4774c/artifacts
+end_time: 1757692334271
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: abdd357b87294294a203bf3bdfe4774c
+run_name: rare-rook-360
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757692331882
+status: 3
+tags: []
+user_id: Lenovo

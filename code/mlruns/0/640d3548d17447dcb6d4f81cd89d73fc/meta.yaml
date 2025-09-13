@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/640d3548d17447dcb6d4f81cd89d73fc/artifacts
+end_time: 1757766949574
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 640d3548d17447dcb6d4f81cd89d73fc
+run_name: skittish-grub-955
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757766949261
+status: 3
+tags: []
+user_id: Lenovo

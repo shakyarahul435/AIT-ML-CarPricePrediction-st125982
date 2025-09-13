@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/45c2141c2e4843e88fdfde91fc61d051/artifacts
+end_time: 1757705612909
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 45c2141c2e4843e88fdfde91fc61d051
+run_name: melodic-crane-963
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757705612610
+status: 3
+tags: []
+user_id: Lenovo

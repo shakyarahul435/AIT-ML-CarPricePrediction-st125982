@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/2fcd49ea3ba54c6c983bccea1d215305/artifacts
+end_time: 1757698585364
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2fcd49ea3ba54c6c983bccea1d215305
+run_name: adaptable-squid-552
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757698583969
+status: 3
+tags: []
+user_id: Lenovo

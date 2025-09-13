@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/47bf45ab30ff4e97ba3553b0b3c5f217/artifacts
+end_time: 1757692267554
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 47bf45ab30ff4e97ba3553b0b3c5f217
+run_name: sedate-doe-715
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757692265465
+status: 3
+tags: []
+user_id: Lenovo

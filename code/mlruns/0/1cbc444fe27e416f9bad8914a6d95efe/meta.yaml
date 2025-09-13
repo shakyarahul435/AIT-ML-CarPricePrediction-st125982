@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/1cbc444fe27e416f9bad8914a6d95efe/artifacts
+end_time: 1757692242769
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1cbc444fe27e416f9bad8914a6d95efe
+run_name: luminous-finch-840
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757692241617
+status: 3
+tags: []
+user_id: Lenovo

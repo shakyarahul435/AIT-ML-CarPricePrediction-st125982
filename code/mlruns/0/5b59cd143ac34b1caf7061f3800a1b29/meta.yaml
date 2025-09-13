@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/5b59cd143ac34b1caf7061f3800a1b29/artifacts
+end_time: 1757704746956
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5b59cd143ac34b1caf7061f3800a1b29
+run_name: flawless-stork-845
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757704746645
+status: 3
+tags: []
+user_id: Lenovo

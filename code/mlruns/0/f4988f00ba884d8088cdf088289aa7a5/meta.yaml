@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/f4988f00ba884d8088cdf088289aa7a5/artifacts
+end_time: 1757693438454
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f4988f00ba884d8088cdf088289aa7a5
+run_name: debonair-hog-502
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757693435997
+status: 3
+tags: []
+user_id: Lenovo

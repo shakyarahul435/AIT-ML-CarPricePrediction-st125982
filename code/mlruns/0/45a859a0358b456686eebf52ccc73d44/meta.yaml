@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/45a859a0358b456686eebf52ccc73d44/artifacts
+end_time: 1757696709828
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 45a859a0358b456686eebf52ccc73d44
+run_name: gaudy-snake-915
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757696687857
+status: 3
+tags: []
+user_id: Lenovo

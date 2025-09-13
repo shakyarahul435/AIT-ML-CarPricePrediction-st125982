@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/315dd3fc3b5d40c4984c1874f1fc983e/artifacts
+end_time: 1757766979627
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 315dd3fc3b5d40c4984c1874f1fc983e
+run_name: upset-doe-165
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757766979215
+status: 3
+tags: []
+user_id: Lenovo

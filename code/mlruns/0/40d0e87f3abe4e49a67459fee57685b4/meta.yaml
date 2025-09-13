@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/40d0e87f3abe4e49a67459fee57685b4/artifacts
+end_time: 1757699678243
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 40d0e87f3abe4e49a67459fee57685b4
+run_name: crawling-dog-187
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757699670976
+status: 3
+tags: []
+user_id: Lenovo

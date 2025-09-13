@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/a4b1624312244421821f8184f81a25dd/artifacts
+end_time: 1757698717077
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a4b1624312244421821f8184f81a25dd
+run_name: masked-snake-810
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757698692252
+status: 3
+tags: []
+user_id: Lenovo

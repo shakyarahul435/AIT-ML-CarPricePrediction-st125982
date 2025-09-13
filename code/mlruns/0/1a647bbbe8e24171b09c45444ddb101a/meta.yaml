@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/1a647bbbe8e24171b09c45444ddb101a/artifacts
+end_time: 1757699817063
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1a647bbbe8e24171b09c45444ddb101a
+run_name: gifted-whale-384
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757699808751
+status: 3
+tags: []
+user_id: Lenovo

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/dab5f31d80da4211acb752b82ba3a552/artifacts
+end_time: 1757771015134
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dab5f31d80da4211acb752b82ba3a552
+run_name: abundant-horse-50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757771014781
+status: 3
+tags: []
+user_id: Lenovo

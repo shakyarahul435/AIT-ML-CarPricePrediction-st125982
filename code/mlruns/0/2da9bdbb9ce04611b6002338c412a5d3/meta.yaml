@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/2da9bdbb9ce04611b6002338c412a5d3/artifacts
+end_time: 1757704766322
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2da9bdbb9ce04611b6002338c412a5d3
+run_name: rare-frog-333
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757704766010
+status: 3
+tags: []
+user_id: Lenovo

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/d5703c07c968468b9e6a96c3e3cd0a42/artifacts
+end_time: 1757771013059
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d5703c07c968468b9e6a96c3e3cd0a42
+run_name: bedecked-ray-251
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757771012735
+status: 3
+tags: []
+user_id: Lenovo

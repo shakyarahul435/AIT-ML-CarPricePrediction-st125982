@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/f353d9dc6d504fe3b4bbfbc698ffd21e/artifacts
+end_time: 1757698751009
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f353d9dc6d504fe3b4bbfbc698ffd21e
+run_name: upset-dolphin-248
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757698749151
+status: 3
+tags: []
+user_id: Lenovo

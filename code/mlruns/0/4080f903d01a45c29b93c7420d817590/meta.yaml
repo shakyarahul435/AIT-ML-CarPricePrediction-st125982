@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/4080f903d01a45c29b93c7420d817590/artifacts
+end_time: 1757703959941
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4080f903d01a45c29b93c7420d817590
+run_name: calm-ox-605
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757703959662
+status: 3
+tags: []
+user_id: Lenovo

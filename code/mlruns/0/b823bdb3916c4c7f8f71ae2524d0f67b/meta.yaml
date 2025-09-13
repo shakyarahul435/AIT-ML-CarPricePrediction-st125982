@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/b823bdb3916c4c7f8f71ae2524d0f67b/artifacts
+end_time: 1757688271358
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b823bdb3916c4c7f8f71ae2524d0f67b
+run_name: gregarious-smelt-480
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757688270278
+status: 3
+tags: []
+user_id: Lenovo

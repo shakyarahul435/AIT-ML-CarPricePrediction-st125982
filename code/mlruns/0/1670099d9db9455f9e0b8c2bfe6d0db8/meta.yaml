@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/1670099d9db9455f9e0b8c2bfe6d0db8/artifacts
+end_time: 1757688417125
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1670099d9db9455f9e0b8c2bfe6d0db8
+run_name: clean-yak-363
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757688415036
+status: 3
+tags: []
+user_id: Lenovo

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/353c91379d4849619bff749ba69ba55d/artifacts
+end_time: 1757771023524
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 353c91379d4849619bff749ba69ba55d
+run_name: fearless-sheep-4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757771023009
+status: 3
+tags: []
+user_id: Lenovo

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/8139151760ef430e97d664c40cd8d3d1/artifacts
+end_time: 1757696525449
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8139151760ef430e97d664c40cd8d3d1
+run_name: languid-lark-874
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757696503242
+status: 3
+tags: []
+user_id: Lenovo

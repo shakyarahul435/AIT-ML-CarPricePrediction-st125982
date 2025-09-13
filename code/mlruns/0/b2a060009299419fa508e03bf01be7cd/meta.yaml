@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/b2a060009299419fa508e03bf01be7cd/artifacts
+end_time: 1757705664814
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b2a060009299419fa508e03bf01be7cd
+run_name: popular-lark-960
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757705664497
+status: 3
+tags: []
+user_id: Lenovo

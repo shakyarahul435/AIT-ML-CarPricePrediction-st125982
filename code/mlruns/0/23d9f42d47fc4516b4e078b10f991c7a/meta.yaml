@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/23d9f42d47fc4516b4e078b10f991c7a/artifacts
+end_time: 1757686215475
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 23d9f42d47fc4516b4e078b10f991c7a
+run_name: popular-cow-234
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757686214223
+status: 3
+tags: []
+user_id: Lenovo

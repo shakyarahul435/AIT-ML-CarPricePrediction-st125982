@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/a2e180b9e934439087a28f8c47d9c597/artifacts
+end_time: 1757703668592
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a2e180b9e934439087a28f8c47d9c597
+run_name: orderly-croc-434
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757703668166
+status: 3
+tags: []
+user_id: Lenovo

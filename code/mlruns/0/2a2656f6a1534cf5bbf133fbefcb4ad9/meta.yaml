@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/2a2656f6a1534cf5bbf133fbefcb4ad9/artifacts
+end_time: 1757768120063
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2a2656f6a1534cf5bbf133fbefcb4ad9
+run_name: grandiose-bug-214
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757768119777
+status: 3
+tags: []
+user_id: Lenovo

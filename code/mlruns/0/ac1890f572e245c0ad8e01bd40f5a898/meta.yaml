@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/ac1890f572e245c0ad8e01bd40f5a898/artifacts
+end_time: 1757768249830
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ac1890f572e245c0ad8e01bd40f5a898
+run_name: bustling-horse-488
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757768249545
+status: 3
+tags: []
+user_id: Lenovo

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/8f38a3e6c0fd4dc89690d9d6ec0f19b6/artifacts
+end_time: 1757696016676
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8f38a3e6c0fd4dc89690d9d6ec0f19b6
+run_name: crawling-tern-576
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757696015790
+status: 3
+tags: []
+user_id: Lenovo

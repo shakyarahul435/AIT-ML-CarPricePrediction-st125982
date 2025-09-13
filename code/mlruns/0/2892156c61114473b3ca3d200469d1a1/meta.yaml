@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/2892156c61114473b3ca3d200469d1a1/artifacts
+end_time: 1757694761003
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2892156c61114473b3ca3d200469d1a1
+run_name: adaptable-smelt-632
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757694760538
+status: 3
+tags: []
+user_id: Lenovo

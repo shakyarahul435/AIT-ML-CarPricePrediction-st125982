@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/9c1729b1648b4181adfb04b3d10ec422/artifacts
+end_time: 1757706357275
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9c1729b1648b4181adfb04b3d10ec422
+run_name: charming-hog-336
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757706356782
+status: 3
+tags: []
+user_id: Lenovo

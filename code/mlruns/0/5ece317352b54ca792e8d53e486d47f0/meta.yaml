@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/5ece317352b54ca792e8d53e486d47f0/artifacts
+end_time: 1757703668162
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5ece317352b54ca792e8d53e486d47f0
+run_name: gentle-shark-48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757703667631
+status: 3
+tags: []
+user_id: Lenovo

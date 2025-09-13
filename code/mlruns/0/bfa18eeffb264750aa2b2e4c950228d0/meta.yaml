@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/bfa18eeffb264750aa2b2e4c950228d0/artifacts
+end_time: 1757699525388
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bfa18eeffb264750aa2b2e4c950228d0
+run_name: melodic-fish-36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757699524916
+status: 3
+tags: []
+user_id: Lenovo

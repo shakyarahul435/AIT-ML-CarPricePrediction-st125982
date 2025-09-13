@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/c2a64923a9d74992884e01bdeab9a099/artifacts
+end_time: 1757766966921
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c2a64923a9d74992884e01bdeab9a099
+run_name: judicious-lark-63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757766966458
+status: 3
+tags: []
+user_id: Lenovo

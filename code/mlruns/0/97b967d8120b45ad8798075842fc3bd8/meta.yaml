@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/97b967d8120b45ad8798075842fc3bd8/artifacts
+end_time: 1757770983745
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 97b967d8120b45ad8798075842fc3bd8
+run_name: clumsy-ox-133
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757770983303
+status: 3
+tags: []
+user_id: Lenovo

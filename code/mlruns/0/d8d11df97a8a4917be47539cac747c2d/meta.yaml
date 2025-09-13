@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/d8d11df97a8a4917be47539cac747c2d/artifacts
+end_time: 1757694871215
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d8d11df97a8a4917be47539cac747c2d
+run_name: casual-dolphin-455
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757694868858
+status: 3
+tags: []
+user_id: Lenovo

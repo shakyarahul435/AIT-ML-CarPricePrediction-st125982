@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/e12b5dbce3cb4ac3a90588653d6e21c2/artifacts
+end_time: 1757768236858
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e12b5dbce3cb4ac3a90588653d6e21c2
+run_name: gaudy-squirrel-515
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757768236517
+status: 3
+tags: []
+user_id: Lenovo

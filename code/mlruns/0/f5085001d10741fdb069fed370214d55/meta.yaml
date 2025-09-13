@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/f5085001d10741fdb069fed370214d55/artifacts
+end_time: 1757692348630
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f5085001d10741fdb069fed370214d55
+run_name: flawless-bug-74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757692348230
+status: 3
+tags: []
+user_id: Lenovo

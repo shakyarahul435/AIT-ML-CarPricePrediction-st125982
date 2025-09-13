@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/0ac357bf81094373a367de64a9116f0b/artifacts
+end_time: 1757688265499
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0ac357bf81094373a367de64a9116f0b
+run_name: masked-doe-801
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757688264497
+status: 3
+tags: []
+user_id: Lenovo

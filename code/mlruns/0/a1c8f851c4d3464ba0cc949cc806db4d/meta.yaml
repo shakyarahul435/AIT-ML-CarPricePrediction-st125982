@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/a1c8f851c4d3464ba0cc949cc806db4d/artifacts
+end_time: 1757704845671
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a1c8f851c4d3464ba0cc949cc806db4d
+run_name: clumsy-fawn-831
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757704845374
+status: 3
+tags: []
+user_id: Lenovo

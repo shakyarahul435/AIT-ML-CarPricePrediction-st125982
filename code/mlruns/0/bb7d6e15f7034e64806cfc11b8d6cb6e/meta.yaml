@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/bb7d6e15f7034e64806cfc11b8d6cb6e/artifacts
+end_time: 1757694688979
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bb7d6e15f7034e64806cfc11b8d6cb6e
+run_name: caring-ray-602
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757694687938
+status: 3
+tags: []
+user_id: Lenovo

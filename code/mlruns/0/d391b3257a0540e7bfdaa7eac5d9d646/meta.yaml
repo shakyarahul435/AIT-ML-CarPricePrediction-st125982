@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/d391b3257a0540e7bfdaa7eac5d9d646/artifacts
+end_time: 1757705632790
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d391b3257a0540e7bfdaa7eac5d9d646
+run_name: nimble-penguin-949
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757705632406
+status: 3
+tags: []
+user_id: Lenovo

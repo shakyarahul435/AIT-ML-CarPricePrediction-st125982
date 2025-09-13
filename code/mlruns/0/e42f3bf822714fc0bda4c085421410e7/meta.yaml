@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/e42f3bf822714fc0bda4c085421410e7/artifacts
+end_time: 1757770938522
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e42f3bf822714fc0bda4c085421410e7
+run_name: orderly-horse-113
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757770938234
+status: 3
+tags: []
+user_id: Lenovo

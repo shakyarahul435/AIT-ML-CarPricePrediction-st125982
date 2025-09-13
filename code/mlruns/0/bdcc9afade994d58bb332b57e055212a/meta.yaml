@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/bdcc9afade994d58bb332b57e055212a/artifacts
+end_time: 1757694622603
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bdcc9afade994d58bb332b57e055212a
+run_name: clean-dog-446
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757694620978
+status: 3
+tags: []
+user_id: Lenovo

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/5cdbf3dd943b486eb8fd9fe82711aa22/artifacts
+end_time: 1757705624788
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5cdbf3dd943b486eb8fd9fe82711aa22
+run_name: efficient-dog-603
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757705624490
+status: 3
+tags: []
+user_id: Lenovo

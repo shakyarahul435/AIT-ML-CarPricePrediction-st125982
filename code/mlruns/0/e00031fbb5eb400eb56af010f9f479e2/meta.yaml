@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/e00031fbb5eb400eb56af010f9f479e2/artifacts
+end_time: 1757686299689
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e00031fbb5eb400eb56af010f9f479e2
+run_name: awesome-penguin-396
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757686298202
+status: 3
+tags: []
+user_id: Lenovo

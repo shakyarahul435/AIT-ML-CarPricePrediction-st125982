@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/80f8796968fc43c89e56f58e10334d6c/artifacts
+end_time: 1757688593107
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 80f8796968fc43c89e56f58e10334d6c
+run_name: whimsical-gnat-7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757688590987
+status: 3
+tags: []
+user_id: Lenovo

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/ba5d1494e2044575b3a8e09d0a15665f/artifacts
+end_time: 1757692453216
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ba5d1494e2044575b3a8e09d0a15665f
+run_name: melodic-dolphin-41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757692452058
+status: 3
+tags: []
+user_id: Lenovo

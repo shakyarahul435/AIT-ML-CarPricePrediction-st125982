@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/51d2128b67544cc6b30d8f6d99e51a10/artifacts
+end_time: 1757706366941
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 51d2128b67544cc6b30d8f6d99e51a10
+run_name: bedecked-duck-27
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757706366641
+status: 3
+tags: []
+user_id: Lenovo

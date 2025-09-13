@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/1aa2e150941f45a9a2b2b259a19fc57d/artifacts
+end_time: 1757704505693
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1aa2e150941f45a9a2b2b259a19fc57d
+run_name: big-sloth-195
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757704505239
+status: 3
+tags: []
+user_id: Lenovo

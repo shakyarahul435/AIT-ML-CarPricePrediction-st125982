@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/a14d452100b84997965f55b0dedb6b6a/artifacts
+end_time: 1757703958681
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a14d452100b84997965f55b0dedb6b6a
+run_name: caring-fawn-965
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757703958397
+status: 3
+tags: []
+user_id: Lenovo

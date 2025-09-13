@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/08af8b1dc5754a6c81dab0f01d62eb3e/artifacts
+end_time: 1757704759181
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 08af8b1dc5754a6c81dab0f01d62eb3e
+run_name: resilient-colt-491
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757704758898
+status: 3
+tags: []
+user_id: Lenovo

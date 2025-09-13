@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/3d9ec84f074540598294ac8b7bf46fa5/artifacts
+end_time: 1757688620603
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3d9ec84f074540598294ac8b7bf46fa5
+run_name: orderly-sponge-638
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757688619238
+status: 3
+tags: []
+user_id: Lenovo

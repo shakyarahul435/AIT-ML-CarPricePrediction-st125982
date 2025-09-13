@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/a0d884995a2947df8029a506ec7174e9/artifacts
+end_time: 1757530049565
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a0d884995a2947df8029a506ec7174e9
+run_name: Fold-0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757530033700
+status: 3
+tags: []
+user_id: Lenovo

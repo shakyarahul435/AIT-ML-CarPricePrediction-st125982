@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/a35e5a5fadb34517bd138d42f3035d50/artifacts
+end_time: 1757688305540
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a35e5a5fadb34517bd138d42f3035d50
+run_name: sincere-pug-251
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757688303935
+status: 3
+tags: []
+user_id: Lenovo

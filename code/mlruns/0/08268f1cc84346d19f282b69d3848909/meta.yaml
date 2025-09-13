@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/08268f1cc84346d19f282b69d3848909/artifacts
+end_time: 1757768149809
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 08268f1cc84346d19f282b69d3848909
+run_name: languid-wasp-530
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757768149531
+status: 3
+tags: []
+user_id: Lenovo

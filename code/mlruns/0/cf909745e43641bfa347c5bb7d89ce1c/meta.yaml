@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/cf909745e43641bfa347c5bb7d89ce1c/artifacts
+end_time: 1757768168082
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cf909745e43641bfa347c5bb7d89ce1c
+run_name: skittish-lark-310
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757768167636
+status: 3
+tags: []
+user_id: Lenovo

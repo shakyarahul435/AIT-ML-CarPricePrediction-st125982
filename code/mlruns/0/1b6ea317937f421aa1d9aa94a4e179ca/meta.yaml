@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/1b6ea317937f421aa1d9aa94a4e179ca/artifacts
+end_time: 1757686189462
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1b6ea317937f421aa1d9aa94a4e179ca
+run_name: abundant-sponge-793
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757686188512
+status: 3
+tags: []
+user_id: Lenovo

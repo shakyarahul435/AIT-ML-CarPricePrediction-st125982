@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/2dcbbb383e1d4010b27cd7e9dc5ec626/artifacts
+end_time: 1757698947042
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2dcbbb383e1d4010b27cd7e9dc5ec626
+run_name: chill-finch-211
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757698938768
+status: 3
+tags: []
+user_id: Lenovo

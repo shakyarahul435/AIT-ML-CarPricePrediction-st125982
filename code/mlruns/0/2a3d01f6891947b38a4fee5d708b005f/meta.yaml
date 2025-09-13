@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/2a3d01f6891947b38a4fee5d708b005f/artifacts
+end_time: 1757771014057
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2a3d01f6891947b38a4fee5d708b005f
+run_name: upset-koi-58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757771013736
+status: 3
+tags: []
+user_id: Lenovo

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/970ddf3fb5554c20bb5ed08ec0db50f1/artifacts
+end_time: 1757768266056
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 970ddf3fb5554c20bb5ed08ec0db50f1
+run_name: capricious-cub-913
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757768265589
+status: 3
+tags: []
+user_id: Lenovo

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/d57339d0ab004c1faabe604ee2a96e13/artifacts
+end_time: 1757688601790
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d57339d0ab004c1faabe604ee2a96e13
+run_name: fearless-penguin-830
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757688599754
+status: 3
+tags: []
+user_id: Lenovo

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/a7bf5f4ca0e647a280a9fcf014c0fabb/artifacts
+end_time: 1757706320387
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a7bf5f4ca0e647a280a9fcf014c0fabb
+run_name: gifted-toad-343
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757706320082
+status: 3
+tags: []
+user_id: Lenovo

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/a58b140175134034925585336af8870e/artifacts
+end_time: 1757692297949
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a58b140175134034925585336af8870e
+run_name: resilient-sloth-524
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757692295642
+status: 3
+tags: []
+user_id: Lenovo

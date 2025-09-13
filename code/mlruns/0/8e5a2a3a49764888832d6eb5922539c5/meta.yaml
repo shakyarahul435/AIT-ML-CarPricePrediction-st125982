@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/8e5a2a3a49764888832d6eb5922539c5/artifacts
+end_time: 1757526815369
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8e5a2a3a49764888832d6eb5922539c5
+run_name: method-batch-lr-0.1-reg-Lasso
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757526806012
+status: 3
+tags: []
+user_id: Lenovo

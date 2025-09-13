@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/cb73d643ea72498580aa60d38a9b373f/artifacts
+end_time: 1757698789320
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cb73d643ea72498580aa60d38a9b373f
+run_name: selective-ram-991
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757698787879
+status: 3
+tags: []
+user_id: Lenovo

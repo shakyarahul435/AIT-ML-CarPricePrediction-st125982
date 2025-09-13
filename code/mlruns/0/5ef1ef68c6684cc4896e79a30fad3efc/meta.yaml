@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/5ef1ef68c6684cc4896e79a30fad3efc/artifacts
+end_time: 1757770901320
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5ef1ef68c6684cc4896e79a30fad3efc
+run_name: beautiful-squid-168
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757770900999
+status: 3
+tags: []
+user_id: Lenovo

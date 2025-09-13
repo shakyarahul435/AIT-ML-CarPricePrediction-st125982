@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/40acb19ef1ff41f388b57ecf4d451257/artifacts
+end_time: 1757694743960
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 40acb19ef1ff41f388b57ecf4d451257
+run_name: dashing-croc-124
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757694742806
+status: 3
+tags: []
+user_id: Lenovo

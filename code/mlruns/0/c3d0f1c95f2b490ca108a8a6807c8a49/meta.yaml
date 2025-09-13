@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/c3d0f1c95f2b490ca108a8a6807c8a49/artifacts
+end_time: 1757704736179
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c3d0f1c95f2b490ca108a8a6807c8a49
+run_name: bright-pig-906
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757704735892
+status: 3
+tags: []
+user_id: Lenovo

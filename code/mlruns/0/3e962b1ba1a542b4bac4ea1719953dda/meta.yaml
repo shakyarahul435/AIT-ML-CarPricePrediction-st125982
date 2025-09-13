@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/3e962b1ba1a542b4bac4ea1719953dda/artifacts
+end_time: 1757688460987
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3e962b1ba1a542b4bac4ea1719953dda
+run_name: dapper-ape-717
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757688458580
+status: 3
+tags: []
+user_id: Lenovo

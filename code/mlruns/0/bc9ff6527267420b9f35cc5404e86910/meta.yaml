@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/bc9ff6527267420b9f35cc5404e86910/artifacts
+end_time: 1757688336338
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bc9ff6527267420b9f35cc5404e86910
+run_name: beautiful-hog-837
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757688335289
+status: 3
+tags: []
+user_id: Lenovo

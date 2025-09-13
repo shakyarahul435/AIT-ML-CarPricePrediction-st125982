@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/4c9d8dec2b3e4ead854abe7d7cb2de13/artifacts
+end_time: 1757696249554
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4c9d8dec2b3e4ead854abe7d7cb2de13
+run_name: awesome-kite-805
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757696249112
+status: 3
+tags: []
+user_id: Lenovo

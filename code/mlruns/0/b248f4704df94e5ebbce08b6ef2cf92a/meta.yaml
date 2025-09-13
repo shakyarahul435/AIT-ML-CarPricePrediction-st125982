@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/b248f4704df94e5ebbce08b6ef2cf92a/artifacts
+end_time: 1757700408501
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b248f4704df94e5ebbce08b6ef2cf92a
+run_name: traveling-turtle-192
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757700385342
+status: 3
+tags: []
+user_id: Lenovo

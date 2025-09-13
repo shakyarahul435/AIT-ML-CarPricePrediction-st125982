@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/e7697719a63b45b4838a762e80c72bf1/artifacts
+end_time: 1757705657887
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e7697719a63b45b4838a762e80c72bf1
+run_name: likeable-sloth-114
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757705657556
+status: 3
+tags: []
+user_id: Lenovo

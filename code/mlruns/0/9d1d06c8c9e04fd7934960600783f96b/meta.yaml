@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/9d1d06c8c9e04fd7934960600783f96b/artifacts
+end_time: 1757700441610
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9d1d06c8c9e04fd7934960600783f96b
+run_name: bouncy-fish-177
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757700418720
+status: 3
+tags: []
+user_id: Lenovo

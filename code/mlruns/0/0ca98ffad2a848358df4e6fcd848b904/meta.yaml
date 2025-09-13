@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/0ca98ffad2a848358df4e6fcd848b904/artifacts
+end_time: 1757706347911
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0ca98ffad2a848358df4e6fcd848b904
+run_name: judicious-eel-234
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757706347555
+status: 3
+tags: []
+user_id: Lenovo

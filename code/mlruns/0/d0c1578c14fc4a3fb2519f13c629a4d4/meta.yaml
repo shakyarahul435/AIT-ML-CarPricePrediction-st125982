@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/d0c1578c14fc4a3fb2519f13c629a4d4/artifacts
+end_time: 1757768155993
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d0c1578c14fc4a3fb2519f13c629a4d4
+run_name: smiling-snake-236
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757768155710
+status: 3
+tags: []
+user_id: Lenovo

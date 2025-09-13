@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/8bf5306d684a4a219814c9027dc9ccc3/artifacts
+end_time: 1757688368402
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8bf5306d684a4a219814c9027dc9ccc3
+run_name: receptive-moose-483
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757688367313
+status: 3
+tags: []
+user_id: Lenovo

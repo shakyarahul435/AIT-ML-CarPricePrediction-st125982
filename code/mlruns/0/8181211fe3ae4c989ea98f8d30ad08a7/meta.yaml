@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/8181211fe3ae4c989ea98f8d30ad08a7/artifacts
+end_time: 1757706341587
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8181211fe3ae4c989ea98f8d30ad08a7
+run_name: crawling-squid-579
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757706341228
+status: 3
+tags: []
+user_id: Lenovo

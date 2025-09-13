@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/3c020f7cd0cc4b36880f688cf2187fd5/artifacts
+end_time: 1757686226349
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3c020f7cd0cc4b36880f688cf2187fd5
+run_name: intrigued-crow-213
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757686225245
+status: 3
+tags: []
+user_id: Lenovo

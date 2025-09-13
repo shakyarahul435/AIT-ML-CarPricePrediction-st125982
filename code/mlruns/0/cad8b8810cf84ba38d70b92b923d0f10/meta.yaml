@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/cad8b8810cf84ba38d70b92b923d0f10/artifacts
+end_time: 1757703944397
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cad8b8810cf84ba38d70b92b923d0f10
+run_name: adaptable-boar-441
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757703943955
+status: 3
+tags: []
+user_id: Lenovo

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/2be413bc9f3648a69422526a0fc558e3/artifacts
+end_time: 1757771018453
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2be413bc9f3648a69422526a0fc558e3
+run_name: popular-mole-344
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757771018152
+status: 3
+tags: []
+user_id: Lenovo

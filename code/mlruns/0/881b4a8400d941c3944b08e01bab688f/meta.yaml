@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/881b4a8400d941c3944b08e01bab688f/artifacts
+end_time: 1757696045482
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 881b4a8400d941c3944b08e01bab688f
+run_name: grandiose-whale-504
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757696044488
+status: 3
+tags: []
+user_id: Lenovo

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/52b21a62291f44d5abb0853aebd59a3e/artifacts
+end_time: 1757704509520
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 52b21a62291f44d5abb0853aebd59a3e
+run_name: inquisitive-wren-655
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757704509221
+status: 3
+tags: []
+user_id: Lenovo

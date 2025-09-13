@@ -1,0 +1,28 @@
+artifact_path: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/models/m-5da31f3803594ba8a33d238e13b473d4/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.5
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+is_signature_from_type_hint: false
+mlflow_version: 3.3.2
+model_id: m-5da31f3803594ba8a33d238e13b473d4
+model_size_bytes: 15524
+model_uuid: m-5da31f3803594ba8a33d238e13b473d4
+prompts: null
+run_id: d735dbca9346427b99d9b767af430cd0
+signature:
+  inputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1, 8]}}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-09-10 17:53:42.716311'

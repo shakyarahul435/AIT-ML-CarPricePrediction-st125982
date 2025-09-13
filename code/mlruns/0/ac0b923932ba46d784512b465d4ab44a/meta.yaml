@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/ac0b923932ba46d784512b465d4ab44a/artifacts
+end_time: 1757688322346
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ac0b923932ba46d784512b465d4ab44a
+run_name: persistent-hawk-625
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757688321341
+status: 3
+tags: []
+user_id: Lenovo

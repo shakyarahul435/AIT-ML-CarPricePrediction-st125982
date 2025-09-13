@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/2ce42de614f14a4d892270d5ce5fbdbd/artifacts
+end_time: 1757768142485
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2ce42de614f14a4d892270d5ce5fbdbd
+run_name: abrasive-newt-161
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757768142029
+status: 3
+tags: []
+user_id: Lenovo

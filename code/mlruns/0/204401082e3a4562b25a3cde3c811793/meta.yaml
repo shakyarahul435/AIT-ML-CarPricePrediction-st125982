@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/204401082e3a4562b25a3cde3c811793/artifacts
+end_time: 1757688337461
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 204401082e3a4562b25a3cde3c811793
+run_name: learned-asp-958
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757688336341
+status: 3
+tags: []
+user_id: Lenovo

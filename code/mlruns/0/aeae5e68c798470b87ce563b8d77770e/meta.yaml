@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/aeae5e68c798470b87ce563b8d77770e/artifacts
+end_time: 1757706353810
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aeae5e68c798470b87ce563b8d77770e
+run_name: salty-squid-196
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757706353507
+status: 3
+tags: []
+user_id: Lenovo

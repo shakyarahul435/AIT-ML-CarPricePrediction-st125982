@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/16dc6bf76e3846979c46c0be95d988ba/artifacts
+end_time: 1757688464480
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 16dc6bf76e3846979c46c0be95d988ba
+run_name: skittish-goose-729
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757688463531
+status: 3
+tags: []
+user_id: Lenovo

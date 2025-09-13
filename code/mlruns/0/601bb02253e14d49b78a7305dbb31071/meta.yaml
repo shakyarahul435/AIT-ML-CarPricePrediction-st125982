@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/601bb02253e14d49b78a7305dbb31071/artifacts
+end_time: 1757674638602
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 601bb02253e14d49b78a7305dbb31071
+run_name: nimble-toad-400
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757674638591
+status: 4
+tags: []
+user_id: Lenovo

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/41c2189a743042f790a09e165dcdb4ce/artifacts
+end_time: 1757703953207
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 41c2189a743042f790a09e165dcdb4ce
+run_name: invincible-bug-436
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757703952925
+status: 3
+tags: []
+user_id: Lenovo

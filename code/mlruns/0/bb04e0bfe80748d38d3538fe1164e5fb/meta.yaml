@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/bb04e0bfe80748d38d3538fe1164e5fb/artifacts
+end_time: 1757766988596
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bb04e0bfe80748d38d3538fe1164e5fb
+run_name: adaptable-gull-600
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757766988211
+status: 3
+tags: []
+user_id: Lenovo

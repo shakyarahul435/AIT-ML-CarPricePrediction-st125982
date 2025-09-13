@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/452e3a8c134646d6b7f23d9972b2069f/artifacts
+end_time: 1757705631385
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 452e3a8c134646d6b7f23d9972b2069f
+run_name: big-snail-94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757705631007
+status: 3
+tags: []
+user_id: Lenovo

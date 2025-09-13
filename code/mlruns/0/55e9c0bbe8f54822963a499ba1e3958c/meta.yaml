@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/55e9c0bbe8f54822963a499ba1e3958c/artifacts
+end_time: 1757696317263
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 55e9c0bbe8f54822963a499ba1e3958c
+run_name: upset-frog-666
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757696311878
+status: 3
+tags: []
+user_id: Lenovo

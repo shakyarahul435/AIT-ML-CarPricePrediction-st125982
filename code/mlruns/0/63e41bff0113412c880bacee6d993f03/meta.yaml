@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/63e41bff0113412c880bacee6d993f03/artifacts
+end_time: 1757704521448
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 63e41bff0113412c880bacee6d993f03
+run_name: smiling-colt-902
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757704521162
+status: 3
+tags: []
+user_id: Lenovo

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/6fbd7295d6cc4091bda55d2a45449d7d/artifacts
+end_time: 1757766955255
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6fbd7295d6cc4091bda55d2a45449d7d
+run_name: amazing-moose-600
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757766954871
+status: 3
+tags: []
+user_id: Lenovo

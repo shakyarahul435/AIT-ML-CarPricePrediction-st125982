@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/a6cc10e8673445c5b83f2b1f613be020/artifacts
+end_time: 1757704735007
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a6cc10e8673445c5b83f2b1f613be020
+run_name: resilient-fawn-179
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757704734729
+status: 3
+tags: []
+user_id: Lenovo

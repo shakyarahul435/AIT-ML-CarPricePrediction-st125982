@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/a61b58c30ecb43179478a9c1ce65b2f1/artifacts
+end_time: 1757673947877
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a61b58c30ecb43179478a9c1ce65b2f1
+run_name: thundering-panda-394
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757673947861
+status: 4
+tags: []
+user_id: Lenovo

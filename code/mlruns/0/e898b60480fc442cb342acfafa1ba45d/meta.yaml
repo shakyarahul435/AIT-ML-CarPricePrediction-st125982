@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/e898b60480fc442cb342acfafa1ba45d/artifacts
+end_time: 1757698953673
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e898b60480fc442cb342acfafa1ba45d
+run_name: nimble-doe-918
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757698949962
+status: 3
+tags: []
+user_id: Lenovo

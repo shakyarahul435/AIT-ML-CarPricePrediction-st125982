@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/ec450faae2234cd2934e67cd54d584da/artifacts
+end_time: 1757699464970
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ec450faae2234cd2934e67cd54d584da
+run_name: dazzling-quail-200
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757699456747
+status: 3
+tags: []
+user_id: Lenovo

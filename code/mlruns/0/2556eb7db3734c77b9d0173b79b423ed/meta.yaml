@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/2556eb7db3734c77b9d0173b79b423ed/artifacts
+end_time: 1757696748817
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2556eb7db3734c77b9d0173b79b423ed
+run_name: resilient-hare-956
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757696747605
+status: 3
+tags: []
+user_id: Lenovo

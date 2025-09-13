@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/2bf69d4fdfc74165a14325b509be72d1/artifacts
+end_time: 1757768139741
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2bf69d4fdfc74165a14325b509be72d1
+run_name: sneaky-hog-217
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757768139214
+status: 3
+tags: []
+user_id: Lenovo

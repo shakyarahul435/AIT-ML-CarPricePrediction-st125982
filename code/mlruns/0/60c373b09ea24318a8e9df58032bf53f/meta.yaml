@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/60c373b09ea24318a8e9df58032bf53f/artifacts
+end_time: 1757705661710
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 60c373b09ea24318a8e9df58032bf53f
+run_name: welcoming-roo-193
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757705661215
+status: 3
+tags: []
+user_id: Lenovo

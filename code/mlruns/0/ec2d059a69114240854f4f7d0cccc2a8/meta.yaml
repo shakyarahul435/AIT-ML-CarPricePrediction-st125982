@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/ec2d059a69114240854f4f7d0cccc2a8/artifacts
+end_time: 1757768142024
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ec2d059a69114240854f4f7d0cccc2a8
+run_name: rumbling-boar-763
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757768141554
+status: 3
+tags: []
+user_id: Lenovo

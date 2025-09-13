@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/72eae260401a4e14a5b9090e4bcb8199/artifacts
+end_time: 1757768137625
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 72eae260401a4e14a5b9090e4bcb8199
+run_name: stately-sheep-570
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757768137347
+status: 3
+tags: []
+user_id: Lenovo

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/b706045e337241299368a23d5b68a3d9/artifacts
+end_time: 1757705626901
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b706045e337241299368a23d5b68a3d9
+run_name: traveling-gnat-691
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757705626576
+status: 3
+tags: []
+user_id: Lenovo

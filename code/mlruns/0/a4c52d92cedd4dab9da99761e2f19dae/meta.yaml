@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/a4c52d92cedd4dab9da99761e2f19dae/artifacts
+end_time: 1757704838285
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a4c52d92cedd4dab9da99761e2f19dae
+run_name: selective-koi-494
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757704837928
+status: 3
+tags: []
+user_id: Lenovo

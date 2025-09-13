@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/690e31c4cb4c4e049094ef61a65306b1/artifacts
+end_time: 1757694757838
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 690e31c4cb4c4e049094ef61a65306b1
+run_name: rare-finch-523
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757694756355
+status: 3
+tags: []
+user_id: Lenovo

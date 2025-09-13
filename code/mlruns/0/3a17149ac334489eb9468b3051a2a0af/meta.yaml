@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/3a17149ac334489eb9468b3051a2a0af/artifacts
+end_time: 1757766981385
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3a17149ac334489eb9468b3051a2a0af
+run_name: clean-shad-100
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757766981063
+status: 3
+tags: []
+user_id: Lenovo

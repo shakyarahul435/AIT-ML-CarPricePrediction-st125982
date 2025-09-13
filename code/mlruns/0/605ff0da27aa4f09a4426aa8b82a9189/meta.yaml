@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/605ff0da27aa4f09a4426aa8b82a9189/artifacts
+end_time: 1757703975744
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 605ff0da27aa4f09a4426aa8b82a9189
+run_name: welcoming-gull-749
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757703975199
+status: 3
+tags: []
+user_id: Lenovo

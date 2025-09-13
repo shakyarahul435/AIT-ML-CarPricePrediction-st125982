@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/9891d58a2abc4f9ea368268a2f88a196/artifacts
+end_time: 1757703955902
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9891d58a2abc4f9ea368268a2f88a196
+run_name: suave-ant-65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757703955443
+status: 3
+tags: []
+user_id: Lenovo

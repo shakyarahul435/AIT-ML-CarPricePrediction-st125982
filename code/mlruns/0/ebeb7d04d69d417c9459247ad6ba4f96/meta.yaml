@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/ebeb7d04d69d417c9459247ad6ba4f96/artifacts
+end_time: 1757700274635
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ebeb7d04d69d417c9459247ad6ba4f96
+run_name: clumsy-bass-18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757700264505
+status: 3
+tags: []
+user_id: Lenovo

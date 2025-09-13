@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/23216e35e21d46889f5d2ee633bd1c44/artifacts
+end_time: 1757768254854
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 23216e35e21d46889f5d2ee633bd1c44
+run_name: big-conch-729
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757768254557
+status: 3
+tags: []
+user_id: Lenovo

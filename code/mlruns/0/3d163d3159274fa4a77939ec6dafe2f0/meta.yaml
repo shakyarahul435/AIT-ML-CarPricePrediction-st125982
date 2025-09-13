@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/3d163d3159274fa4a77939ec6dafe2f0/artifacts
+end_time: 1757770942933
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3d163d3159274fa4a77939ec6dafe2f0
+run_name: clumsy-conch-188
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757770942642
+status: 3
+tags: []
+user_id: Lenovo

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/766cba67f04b499a9ac4ce4f1e9bb9cc/artifacts
+end_time: 1757705637229
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 766cba67f04b499a9ac4ce4f1e9bb9cc
+run_name: awesome-steed-515
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757705636939
+status: 3
+tags: []
+user_id: Lenovo

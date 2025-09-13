@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/7438a3d9affb4ce0bc152601dd2960d4/artifacts
+end_time: 1757704730375
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7438a3d9affb4ce0bc152601dd2960d4
+run_name: resilient-snail-147
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757704730078
+status: 3
+tags: []
+user_id: Lenovo

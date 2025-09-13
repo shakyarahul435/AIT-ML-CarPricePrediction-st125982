@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/deaa8ee7fb8c462eb01fe497e7bf96ba/artifacts
+end_time: 1757770903277
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: deaa8ee7fb8c462eb01fe497e7bf96ba
+run_name: vaunted-sheep-784
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757770902891
+status: 3
+tags: []
+user_id: Lenovo

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/1845b71dc79c40b0ad395a96cd3627f7/artifacts
+end_time: 1757704823671
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1845b71dc79c40b0ad395a96cd3627f7
+run_name: learned-ape-268
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757704823378
+status: 3
+tags: []
+user_id: Lenovo

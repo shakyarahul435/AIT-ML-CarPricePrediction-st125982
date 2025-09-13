@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/a06ae9af06974cd094a5c694c61c6e42/artifacts
+end_time: 1757703708584
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a06ae9af06974cd094a5c694c61c6e42
+run_name: luminous-cub-103
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757703708065
+status: 3
+tags: []
+user_id: Lenovo

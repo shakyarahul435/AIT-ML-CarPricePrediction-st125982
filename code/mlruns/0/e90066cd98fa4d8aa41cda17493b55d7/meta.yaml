@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/e90066cd98fa4d8aa41cda17493b55d7/artifacts
+end_time: 1757704739611
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e90066cd98fa4d8aa41cda17493b55d7
+run_name: crawling-swan-461
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757704739130
+status: 3
+tags: []
+user_id: Lenovo

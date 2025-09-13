@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/aad6fbf11f6d4573b8bc7d779548c7af/artifacts
+end_time: 1757688552144
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aad6fbf11f6d4573b8bc7d779548c7af
+run_name: carefree-moose-440
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757688551201
+status: 3
+tags: []
+user_id: Lenovo

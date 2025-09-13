@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/ea3d6caeab6745c082677107c75cfda8/artifacts
+end_time: 1757768125831
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ea3d6caeab6745c082677107c75cfda8
+run_name: bald-hog-407
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757768125549
+status: 3
+tags: []
+user_id: Lenovo

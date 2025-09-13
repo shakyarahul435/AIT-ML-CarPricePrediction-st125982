@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/381f174e87b24f13821a4a6524ff5bcf/artifacts
+end_time: 1757700476099
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 381f174e87b24f13821a4a6524ff5bcf
+run_name: suave-shrike-914
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757700474021
+status: 3
+tags: []
+user_id: Lenovo

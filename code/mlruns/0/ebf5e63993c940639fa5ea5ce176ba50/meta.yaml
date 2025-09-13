@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/ebf5e63993c940639fa5ea5ce176ba50/artifacts
+end_time: 1757688554584
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ebf5e63993c940639fa5ea5ce176ba50
+run_name: lyrical-tern-602
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757688552146
+status: 3
+tags: []
+user_id: Lenovo

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/a43c72e2192c4cdc8cecc9d48c8702e4/artifacts
+end_time: 1757688259603
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a43c72e2192c4cdc8cecc9d48c8702e4
+run_name: sincere-elk-368
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757688258361
+status: 3
+tags: []
+user_id: Lenovo

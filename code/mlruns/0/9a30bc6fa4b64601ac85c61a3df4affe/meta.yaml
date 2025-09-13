@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/9a30bc6fa4b64601ac85c61a3df4affe/artifacts
+end_time: 1757704500492
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9a30bc6fa4b64601ac85c61a3df4affe
+run_name: efficient-grouse-897
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757704499957
+status: 3
+tags: []
+user_id: Lenovo

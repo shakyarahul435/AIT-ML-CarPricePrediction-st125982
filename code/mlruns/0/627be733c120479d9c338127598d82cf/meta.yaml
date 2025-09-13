@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/627be733c120479d9c338127598d82cf/artifacts
+end_time: 1757694614667
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 627be733c120479d9c338127598d82cf
+run_name: upset-worm-742
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757694612187
+status: 3
+tags: []
+user_id: Lenovo

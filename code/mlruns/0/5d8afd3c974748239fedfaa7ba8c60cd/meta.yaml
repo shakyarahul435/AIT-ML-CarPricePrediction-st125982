@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/5d8afd3c974748239fedfaa7ba8c60cd/artifacts
+end_time: 1757688604754
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5d8afd3c974748239fedfaa7ba8c60cd
+run_name: clumsy-stoat-669
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757688603789
+status: 3
+tags: []
+user_id: Lenovo

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/a3dbffbb74394562b8bd05a5b69b55e4/artifacts
+end_time: 1757688235637
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a3dbffbb74394562b8bd05a5b69b55e4
+run_name: bittersweet-yak-114
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757688234618
+status: 3
+tags: []
+user_id: Lenovo

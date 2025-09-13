@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/fe0c250631404884a6ba90c31f066a01/artifacts
+end_time: 1757706355535
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fe0c250631404884a6ba90c31f066a01
+run_name: sedate-hawk-635
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757706355149
+status: 3
+tags: []
+user_id: Lenovo

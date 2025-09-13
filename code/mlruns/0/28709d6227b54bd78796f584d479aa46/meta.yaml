@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/28709d6227b54bd78796f584d479aa46/artifacts
+end_time: 1757692293368
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 28709d6227b54bd78796f584d479aa46
+run_name: thundering-finch-548
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757692292350
+status: 3
+tags: []
+user_id: Lenovo

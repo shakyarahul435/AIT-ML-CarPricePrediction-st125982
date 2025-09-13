@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/4a6b898a10ae42789142c3c4c183b380/artifacts
+end_time: 1757694830912
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4a6b898a10ae42789142c3c4c183b380
+run_name: orderly-snake-232
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757694828709
+status: 3
+tags: []
+user_id: Lenovo

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/50d79dd6d5e64f3286560c7ce3618b2b/artifacts
+end_time: 1757704490638
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 50d79dd6d5e64f3286560c7ce3618b2b
+run_name: defiant-sheep-828
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757704490337
+status: 3
+tags: []
+user_id: Lenovo

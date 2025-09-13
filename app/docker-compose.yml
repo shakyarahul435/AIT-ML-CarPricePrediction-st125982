@@ -16,3 +16,16 @@ services:
       - FLASK_ENV=production
     volumes:
       - .:/app
+
+  mlflow:
+    build: 
+      context: .
+      dockerfile: mlflow.Dockerfile
+    platform: linux/amd64
+    volumes:
+      - mlflow:/mlflow
+    ports:
+      - 5000:5000
+
+volumes:
+  mlflow:

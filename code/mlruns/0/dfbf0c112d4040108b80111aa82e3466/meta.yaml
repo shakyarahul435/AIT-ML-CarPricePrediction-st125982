@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/dfbf0c112d4040108b80111aa82e3466/artifacts
+end_time: 1757703689556
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dfbf0c112d4040108b80111aa82e3466
+run_name: gaudy-cat-974
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757703689010
+status: 3
+tags: []
+user_id: Lenovo

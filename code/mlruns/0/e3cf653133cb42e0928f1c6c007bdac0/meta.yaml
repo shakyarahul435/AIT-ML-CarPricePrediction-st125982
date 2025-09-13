@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/e3cf653133cb42e0928f1c6c007bdac0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e3cf653133cb42e0928f1c6c007bdac0
+run_name: method-sto-lr-0.001-reg-Ridge-poly-True-momentum-Momentum Used-init-zero
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757530296911
+status: 1
+tags: []
+user_id: Lenovo

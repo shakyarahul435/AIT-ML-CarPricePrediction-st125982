@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/073e0fdbfac94f6facadc88f21f3fa10/artifacts
+end_time: 1757692440102
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 073e0fdbfac94f6facadc88f21f3fa10
+run_name: caring-elk-486
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757692439652
+status: 3
+tags: []
+user_id: Lenovo

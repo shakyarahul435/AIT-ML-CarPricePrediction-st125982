@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/25e5c84129b14d04b1fd263301e76cae/artifacts
+end_time: 1757706352140
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 25e5c84129b14d04b1fd263301e76cae
+run_name: capable-mole-28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757706351779
+status: 3
+tags: []
+user_id: Lenovo

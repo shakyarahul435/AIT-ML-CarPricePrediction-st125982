@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/272c70abe64f49e199a526b8e7d550b0/artifacts
+end_time: 1757768124327
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 272c70abe64f49e199a526b8e7d550b0
+run_name: sneaky-grouse-320
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757768124043
+status: 3
+tags: []
+user_id: Lenovo

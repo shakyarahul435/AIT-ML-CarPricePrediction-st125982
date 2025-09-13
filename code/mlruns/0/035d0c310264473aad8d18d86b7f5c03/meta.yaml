@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/035d0c310264473aad8d18d86b7f5c03/artifacts
+end_time: 1757688415033
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 035d0c310264473aad8d18d86b7f5c03
+run_name: omniscient-colt-752
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757688412666
+status: 3
+tags: []
+user_id: Lenovo

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/e62009ad96b54795abfdf79ce55a3ffb/artifacts
+end_time: 1757694560263
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e62009ad96b54795abfdf79ce55a3ffb
+run_name: rogue-gull-516
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757694559145
+status: 3
+tags: []
+user_id: Lenovo

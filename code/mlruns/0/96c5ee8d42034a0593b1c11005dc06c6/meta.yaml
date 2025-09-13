@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/96c5ee8d42034a0593b1c11005dc06c6/artifacts
+end_time: 1757698692248
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 96c5ee8d42034a0593b1c11005dc06c6
+run_name: nimble-sloth-925
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757698683491
+status: 3
+tags: []
+user_id: Lenovo

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/dffec415ef7b4ffba80fd34149d360d9/artifacts
+end_time: 1757703679141
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dffec415ef7b4ffba80fd34149d360d9
+run_name: rogue-lamb-158
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757703678770
+status: 3
+tags: []
+user_id: Lenovo

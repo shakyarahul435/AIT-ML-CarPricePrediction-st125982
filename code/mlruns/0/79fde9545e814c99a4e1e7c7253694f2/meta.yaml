@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/79fde9545e814c99a4e1e7c7253694f2/artifacts
+end_time: 1757703957107
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 79fde9545e814c99a4e1e7c7253694f2
+run_name: fun-boar-839
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757703956668
+status: 3
+tags: []
+user_id: Lenovo

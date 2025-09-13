@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/880c37b8dad34d13a608b5f5be27daa3/artifacts
+end_time: 1757692252388
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 880c37b8dad34d13a608b5f5be27daa3
+run_name: classy-frog-971
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757692250167
+status: 3
+tags: []
+user_id: Lenovo

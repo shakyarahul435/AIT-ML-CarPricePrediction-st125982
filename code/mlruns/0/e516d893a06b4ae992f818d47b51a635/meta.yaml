@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/e516d893a06b4ae992f818d47b51a635/artifacts
+end_time: 1757705646822
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e516d893a06b4ae992f818d47b51a635
+run_name: wise-doe-32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757705646520
+status: 3
+tags: []
+user_id: Lenovo

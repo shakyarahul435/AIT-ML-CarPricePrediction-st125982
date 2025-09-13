@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/3642d673b1894d0c818ed054f3255832/artifacts
+end_time: 1757704868875
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3642d673b1894d0c818ed054f3255832
+run_name: gentle-squid-93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757704868386
+status: 3
+tags: []
+user_id: Lenovo

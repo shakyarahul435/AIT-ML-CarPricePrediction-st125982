@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/fd711f74c7774bbfb8bd6563a8faa209/artifacts
+end_time: 1757704490912
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fd711f74c7774bbfb8bd6563a8faa209
+run_name: likeable-elk-838
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757704490642
+status: 3
+tags: []
+user_id: Lenovo

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/936594fefee34f72b187be84b87b23bf/artifacts
+end_time: 1757694560613
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 936594fefee34f72b187be84b87b23bf
+run_name: bald-stag-144
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757694560267
+status: 3
+tags: []
+user_id: Lenovo

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/a869da111f1848e5809c4289af68adfc/artifacts
+end_time: 1757703710019
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a869da111f1848e5809c4289af68adfc
+run_name: upset-rat-92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757703709522
+status: 3
+tags: []
+user_id: Lenovo

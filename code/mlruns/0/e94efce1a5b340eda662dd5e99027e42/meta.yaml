@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/e94efce1a5b340eda662dd5e99027e42/artifacts
+end_time: 1757706351269
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e94efce1a5b340eda662dd5e99027e42
+run_name: dapper-snipe-642
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757706350809
+status: 3
+tags: []
+user_id: Lenovo

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/ec3cdef7f8604acc9b3a6c08481cf9f1/artifacts
+end_time: 1757694559142
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ec3cdef7f8604acc9b3a6c08481cf9f1
+run_name: calm-yak-983
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757694557355
+status: 3
+tags: []
+user_id: Lenovo

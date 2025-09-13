@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/696b09c0c11845319fb7247ca530d162/artifacts
+end_time: 1757530287586
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 696b09c0c11845319fb7247ca530d162
+run_name: method-batch-lr-0.1-reg-Normal-poly-False-momentum-False-init-xavier
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757530273485
+status: 3
+tags: []
+user_id: Lenovo

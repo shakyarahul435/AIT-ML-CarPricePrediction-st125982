@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/82ccd2fd2a1e448eb30d0b21b1f78e6e/artifacts
+end_time: 1757688345564
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 82ccd2fd2a1e448eb30d0b21b1f78e6e
+run_name: redolent-bird-152
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757688345240
+status: 3
+tags: []
+user_id: Lenovo

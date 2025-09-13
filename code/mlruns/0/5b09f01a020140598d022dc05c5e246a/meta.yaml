@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/5b09f01a020140598d022dc05c5e246a/artifacts
+end_time: 1757766982390
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5b09f01a020140598d022dc05c5e246a
+run_name: gentle-duck-234
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757766982091
+status: 3
+tags: []
+user_id: Lenovo

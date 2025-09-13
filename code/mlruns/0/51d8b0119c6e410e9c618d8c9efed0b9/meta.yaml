@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/51d8b0119c6e410e9c618d8c9efed0b9/artifacts
+end_time: 1757703963993
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 51d8b0119c6e410e9c618d8c9efed0b9
+run_name: resilient-tern-173
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757703963710
+status: 3
+tags: []
+user_id: Lenovo

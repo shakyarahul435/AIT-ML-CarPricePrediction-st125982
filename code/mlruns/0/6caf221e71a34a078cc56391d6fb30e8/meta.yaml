@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/6caf221e71a34a078cc56391d6fb30e8/artifacts
+end_time: 1757768144660
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6caf221e71a34a078cc56391d6fb30e8
+run_name: loud-ape-695
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757768144319
+status: 3
+tags: []
+user_id: Lenovo

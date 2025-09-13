@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/702da92b53f549838e69e277c225ad62/artifacts
+end_time: 1757686257910
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 702da92b53f549838e69e277c225ad62
+run_name: abundant-stoat-840
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757686257356
+status: 3
+tags: []
+user_id: Lenovo

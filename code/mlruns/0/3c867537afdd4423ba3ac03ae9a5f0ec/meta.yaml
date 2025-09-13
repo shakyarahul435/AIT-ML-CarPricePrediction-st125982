@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/3c867537afdd4423ba3ac03ae9a5f0ec/artifacts
+end_time: 1757688606933
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3c867537afdd4423ba3ac03ae9a5f0ec
+run_name: sedate-mole-599
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757688604757
+status: 3
+tags: []
+user_id: Lenovo

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/bf593a7b12664e29bd210fb2b16891f0/artifacts
+end_time: 1757704514343
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bf593a7b12664e29bd210fb2b16891f0
+run_name: nimble-gull-811
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757704514056
+status: 3
+tags: []
+user_id: Lenovo

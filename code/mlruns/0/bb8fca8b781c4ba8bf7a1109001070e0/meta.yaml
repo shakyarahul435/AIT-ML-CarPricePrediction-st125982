@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/bb8fca8b781c4ba8bf7a1109001070e0/artifacts
+end_time: 1757768136602
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bb8fca8b781c4ba8bf7a1109001070e0
+run_name: bedecked-fox-812
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757768136327
+status: 3
+tags: []
+user_id: Lenovo

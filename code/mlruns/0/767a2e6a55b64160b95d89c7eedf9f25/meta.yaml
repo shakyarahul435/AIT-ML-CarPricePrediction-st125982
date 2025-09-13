@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Lenovo/Downloads/Machine-Learning/code/mlruns/0/767a2e6a55b64160b95d89c7eedf9f25/artifacts
+end_time: 1757766956842
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 767a2e6a55b64160b95d89c7eedf9f25
+run_name: efficient-rat-427
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757766956553
+status: 3
+tags: []
+user_id: Lenovo
