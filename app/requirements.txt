@@ -1,6 +1,6 @@
 numpy
 dash
-pickle
+joblib
 pandas
 scikit-learn
 
