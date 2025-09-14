@@ -4,7 +4,6 @@ import pandas as pd
 import pickle
 import numpy as np
 
-
 df = pd.read_csv("data/Cars.csv")    # reading csv file using pandas
 
 filename = 'model/carPricePrediction.model' # importing pre-trained model carPricePrediction.model
@@ -15,17 +14,10 @@ layout = html.Div(children=[    #creating main app layout and using its children
 
     html.H2(children='Car Price Prediction: Version 1'),
 
-    # html.Div([
-    #     html.Button('V1',id='v1'),
-    #     html.Button('V2',id='v2')
-    # ],style={'margin-bottom': '1rem'}),
-
-    
-
     html.Div("Car Price Prediction (CPP): A web application framework for predicting Car Prices."), # creating div
 
-
-    html.Div([  # creating button inside div to easily work with UI providing style
+    # creating button inside div to easily work with UI providing style
+    html.Div([  
         html.Button("DataFrame", id="dataFrame",
                     style={"background-color": "blue", "color": "white", "padding": "10px",
                         "border-radius": "10px", "margin-right": '10px', "cursor": "pointer","height": "40px"}),
@@ -35,8 +27,9 @@ layout = html.Div(children=[    #creating main app layout and using its children
                         "border-radius": "10px", "cursor": "pointer","height": "40px"}),
     ],style={"display": "flex","justify-content":"space-between","margin-top": "10px"}),
 
+    # using dash core component (dcc) for component to store data to browser
     html.Div(id="table-container"),
-    dcc.Store(id="table-visible", data=False),  # using dash core component (dcc) for component to store data to browser
+    dcc.Store(id="table-visible", data=False),  
     
     html.Div(id="instruction-container"),
     dcc.Store(id="instruction-visible", data=False),  
@@ -46,7 +39,8 @@ layout = html.Div(children=[    #creating main app layout and using its children
     html.Label(["Car Brand Name:"],style={"fontWeight": "bold"}),   # using label for dropdown 
     dcc.Dropdown(
         id="brand-input",
-        options=[   # Provided with Brand names and value as per LabelEncoder in A_Z ascending order
+         # Provided with Brand names and value as per LabelEncoder in A_Z ascending order
+        options=[  
             {"label": "Ambassador", "value": 0},
             {"label": "Ashok", "value": 1},
             {"label": "Audi", "value": 2},

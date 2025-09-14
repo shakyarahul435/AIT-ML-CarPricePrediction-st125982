@@ -6,7 +6,8 @@ import numpy as np
 
 layout = html.Div([
     html.H2("Car Price Prediction: Version 2"),
-    html.Div([  # creating button inside div to easily work with UI providing style
+    # creating button inside div to easily work with UI providing style
+    html.Div([  
         html.Button("DataFrame", id="dataFrame",
                     style={"background-color": "blue", "color": "white", "padding": "10px",
                         "border-radius": "10px", "margin-right": '10px', "cursor": "pointer","height": "40px"}),
@@ -16,8 +17,9 @@ layout = html.Div([
                         "border-radius": "10px", "cursor": "pointer","height": "40px"}),
     ],style={"display": "flex","justify-content":"space-between","margin-top": "10px"}),
 
+    # using dash core component (dcc) for component to store data to browser
     html.Div(id="table-container"),
-    dcc.Store(id="table-visible", data=False),  # using dash core component (dcc) for component to store data to browser
+    dcc.Store(id="table-visible", data=False),  
     
     html.Div(id="instruction-container"),
     dcc.Store(id="instruction-visible", data=False),  
